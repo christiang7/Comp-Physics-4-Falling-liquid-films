@@ -1,0 +1,128 @@
+\begin{thebibliography}{16}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[noa({\natexlab{a}})]{noauthor_basis_projections_galerkin.pdf_nodate}
+basis\_projections\_galerkin.pdf, {\natexlab{a}}.
+\newblock URL
+  \url{users.jyu.fi/~oljumali/teaching/TIES594/04/basis_projections_Galerkin.pdf}.
+
+\bibitem[noa({\natexlab{b}})]{noauthor_galerkin2.pdf_nodate}
+galerkin2.pdf, {\natexlab{b}}.
+\newblock URL \url{fischerp.cs.illinois.edu/tam470/refs/galerkin2.pdf}.
+
+\bibitem[noa({\natexlab{c}})]{noauthor_galerkin_method.pdf_nodate}
+Galerkin\_method.pdf, {\natexlab{c}}.
+\newblock URL \url{www.sd.ruhr-uni-bochum.de/downloads/Galerkin_method.pdf}.
+
+\bibitem[noa({\natexlab{d}})]{noauthor_kuramoto-sivashinsky_nodate}
+Kuramoto-sivashinsky equation - encyclopedia of mathematics, {\natexlab{d}}.
+\newblock URL
+  \url{https://www.encyclopediaofmath.org/index.php/Kuramoto-Sivashinsky_equation}.
+
+\bibitem[noa({\natexlab{e}})]{noauthor_task_nodate}
+task sheet ks.pdf, {\natexlab{e}}.
+
+\bibitem[Chang()]{chang_traveling_1986}
+Hsueh-Chia Chang.
+\newblock Traveling waves on fluid interfaces: Normal form analysis of the
+  kuramoto–sivashinsky equation.
+\newblock 29\penalty0 (10):\penalty0 3142.
+\newblock ISSN 00319171.
+\newblock \doi{10.1063/1.865965}.
+\newblock URL \url{https://aip.scitation.org/doi/10.1063/1.865965}.
+
+\bibitem[Cox and Matthews()]{cox_exponential_2002}
+S.M. Cox and P.C. Matthews.
+\newblock Exponential time differencing for stiff systems.
+\newblock 176\penalty0 (2):\penalty0 430--455.
+\newblock ISSN 00219991.
+\newblock \doi{10.1006/jcph.2002.6995}.
+\newblock URL
+  \url{https://linkinghub.elsevier.com/retrieve/pii/S0021999102969950}.
+
+\bibitem[Duran()]{duran_galerkin_nodate}
+Ricardo~G Duran.
+\newblock Galerkin approximations and finite element methods.
+\newblock page~46.
+\newblock URL \url{mate.dm.uba.ar/~rduran/class_notes/fem.pdf}.
+
+\bibitem[Friedman()]{friedman_numerical_nodate}
+Dr~Noemi Friedman.
+\newblock Numerical methods for {PDEs} {FEM} - abstract formulation, the
+  galerkin method.
+\newblock page~20.
+\newblock URL
+  \url{https://www.wire.tu-bs.de/lehre/ss14/pde2/PDE2_Tutorial_2_Galerkin_method.pdf}.
+
+\bibitem[Kuramoto and Tsuzuki()]{kuramoto_persistent_1976}
+Yoshiki Kuramoto and Toshio Tsuzuki.
+\newblock Persistent propagation of concentration waves in dissipative media
+  far from thermal equilibrium.
+\newblock 55\penalty0 (2):\penalty0 356--369.
+\newblock ISSN 0033-068X.
+\newblock \doi{10.1143/PTP.55.356}.
+\newblock URL \url{https://academic.oup.com/ptp/article/55/2/356/1883646}.
+
+\bibitem[Michelson()]{michelson_steady_1986}
+Daniel Michelson.
+\newblock Steady solutions of the kuramoto-sivashinsky equation.
+\newblock 19\penalty0 (1):\penalty0 89--111.
+\newblock ISSN 0167-2789.
+\newblock \doi{10.1016/0167-2789(86)90055-2}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/0167278986900552}.
+
+\bibitem[Miyara()]{miyara_numerical_2000}
+Akio Miyara.
+\newblock Numerical simulation of wavy liquid film flowing down on a vertical
+  wall and an inclined wall.
+\newblock 39\penalty0 (9):\penalty0 1015--1027.
+\newblock ISSN 1290-0729.
+\newblock \doi{10.1016/S1290-0729(00)01192-3}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S1290072900011923}.
+
+\bibitem[Nosoko et~al.()Nosoko, Yoshimura, Nagata, and
+  Oyakawa]{nosoko_characteristics_1996}
+T.~Nosoko, P.~N. Yoshimura, T.~Nagata, and K.~Oyakawa.
+\newblock Characteristics of two-dimensional waves on a falling liquid film.
+\newblock 51\penalty0 (5):\penalty0 725--732.
+\newblock ISSN 0009-2509.
+\newblock \doi{10.1016/0009-2509(95)00292-8}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/0009250995002928}.
+
+\bibitem[Pumir et~al.()Pumir, Manneville, and Pomeau]{pumir_solitary_1983}
+A.~Pumir, P.~Manneville, and Y.~Pomeau.
+\newblock On solitary waves running down an inclined plane.
+\newblock 135\penalty0 (-1):\penalty0 27.
+\newblock ISSN 0022-1120, 1469-7645.
+\newblock \doi{10.1017/S0022112083002943}.
+\newblock URL
+  \url{http://www.journals.cambridge.org/abstract_S0022112083002943}.
+
+\bibitem[Ruyer-Quil et~al.()Ruyer-Quil, Kofman, Chasseur, and
+  Mergui]{ruyer-quil_dynamics_2014}
+Christian Ruyer-Quil, Nicolas Kofman, Didier Chasseur, and Sophie Mergui.
+\newblock Dynamics of falling liquid films.
+\newblock 37\penalty0 (4):\penalty0 30.
+\newblock ISSN 1292-8941, 1292-895X.
+\newblock \doi{10.1140/epje/i2014-14030-5}.
+\newblock URL \url{http://link.springer.com/10.1140/epje/i2014-14030-5}.
+
+\bibitem[Sivashinsky()]{sivashinsky_nonlinear_1988}
+G.~I. Sivashinsky.
+\newblock Nonlinear analysis of hydrodynamic instability in laminar flames—i.
+  derivation of basic equations.
+\newblock In Pierre Pelcé, editor, \emph{Dynamics of Curved Fronts}, pages
+  459--488. Academic Press.
+\newblock ISBN 978-0-12-550355-6.
+\newblock \doi{10.1016/B978-0-08-092523-3.50048-4}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/B9780080925233500484}.
+
+\end{thebibliography}

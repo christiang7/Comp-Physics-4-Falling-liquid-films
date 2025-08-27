@@ -1,0 +1,91 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: falling-liquid-films.aux
+The style file: plainnat.bst
+Database file #1: Lit-comp-physics-4.bib
+Warning--entry type for "noauthor_kuramoto-sivashinsky_nodate" isn't style-file defined
+--line 106 of file Lit-comp-physics-4.bib
+Warning--to sort, need author or key in noauthor_galerkin2.pdf_nodate
+Warning--to sort, need author or key in noauthor_galerkin_method.pdf_nodate
+Warning--to sort, need author or key in noauthor_basis_projections_galerkin.pdf_nodate
+Warning--to sort, need author or key in noauthor_kuramoto-sivashinsky_nodate
+Warning--to sort, need author or key in noauthor_task_nodate
+Warning--empty year in noauthor_basis_projections_galerkin.pdf_nodate
+Warning--empty year in noauthor_galerkin2.pdf_nodate
+Warning--empty year in noauthor_galerkin_method.pdf_nodate
+Warning--empty year in noauthor_kuramoto-sivashinsky_nodate
+Warning--empty year in noauthor_task_nodate
+Warning--empty journal in chang_traveling_1986
+Warning--empty year in chang_traveling_1986
+Warning--empty year in chang_traveling_1986
+Warning--empty journal in cox_exponential_2002
+Warning--empty year in cox_exponential_2002
+Warning--empty year in cox_exponential_2002
+Warning--empty journal in duran_galerkin_nodate
+Warning--empty year in duran_galerkin_nodate
+Warning--empty year in duran_galerkin_nodate
+Warning--empty journal in friedman_numerical_nodate
+Warning--empty year in friedman_numerical_nodate
+Warning--empty year in friedman_numerical_nodate
+Warning--empty journal in kuramoto_persistent_1976
+Warning--empty year in kuramoto_persistent_1976
+Warning--empty year in kuramoto_persistent_1976
+Warning--empty journal in michelson_steady_1986
+Warning--empty year in michelson_steady_1986
+Warning--empty year in michelson_steady_1986
+Warning--empty journal in miyara_numerical_2000
+Warning--empty year in miyara_numerical_2000
+Warning--empty year in miyara_numerical_2000
+Warning--empty journal in nosoko_characteristics_1996
+Warning--empty year in nosoko_characteristics_1996
+Warning--empty year in nosoko_characteristics_1996
+Warning--empty journal in pumir_solitary_1983
+Warning--empty year in pumir_solitary_1983
+Warning--empty year in pumir_solitary_1983
+Warning--empty journal in ruyer-quil_dynamics_2014
+Warning--empty year in ruyer-quil_dynamics_2014
+Warning--empty year in ruyer-quil_dynamics_2014
+Warning--empty year in sivashinsky_nonlinear_1988
+Warning--empty year in sivashinsky_nonlinear_1988
+You've used 16 entries,
+            2773 wiz_defined-function locations,
+            695 strings with 7929 characters,
+and the built_in function-call counts, 6508 in all, are:
+= -- 626
+> -- 214
+< -- 11
++ -- 84
+- -- 64
+* -- 546
+:= -- 901
+add.period$ -- 72
+call.type$ -- 16
+change.case$ -- 69
+chr.to.int$ -- 12
+cite$ -- 79
+duplicate$ -- 321
+empty$ -- 611
+format.name$ -- 79
+if$ -- 1393
+int.to.chr$ -- 5
+int.to.str$ -- 1
+missing$ -- 11
+newline$ -- 111
+num.names$ -- 46
+pop$ -- 207
+preamble$ -- 1
+purify$ -- 53
+quote$ -- 0
+skip$ -- 207
+stack$ -- 0
+substring$ -- 229
+swap$ -- 30
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 176
+warning$ -- 42
+while$ -- 52
+width$ -- 0
+write$ -- 236
+(There were 43 warnings)

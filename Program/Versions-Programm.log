@@ -1,0 +1,946 @@
+WARNING   2019.06.18 17:04:25  6119 created directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4//Versions>
+BEGIN     2019.06.18 17:04:25  6119 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+VERSION   2019.06.18 17:04:25  6119 storeBackup.pl, 3.5
+INFO      2019.06.18 17:04:25  6119 setting ARG_MAX to 63488 (Linux)
+INFO      2019.06.18 17:04:25  6119 comprRule = $size > 10000000 and not $file =~ /\.zip\Z|\.bz2\Z|\.gz\Z|\.tgz\Z|\.jpg\Z|\.gif\Z|\.tiff?\Z|\.mpe?g\Z|\.mp[34]\Z|\.mpe?[34]\Z|\.ogg\Z|\.gpg\Z|\.png\Z|\.lzma\Z|\.xz\Z|\.mov\Z/i
+INFO      2019.06.18 17:04:25  6119 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> for existing backups
+INFO      2019.06.18 17:04:25  6119 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> for existing backups
+STATISTIC 2019.06.18 17:04:25  6119 found 1 backup series, 0 backups, 0 renamed backups
+INFO      2019.06.18 17:04:25  6119 consistency check finished successfully
+INFO      2019.06.18 17:04:25  6119 found no references to backups from lateLinks that need storeBackupUpdateBackup run
+INFO      2019.06.18 17:04:25  6119 excluding <Versions>:
+INFO      2019.06.18 17:04:25  6119     excluding </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+INFO      2019.06.18 17:04:25  6119 target directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> is in exception </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> of source directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4>, ok
+INFO      2019.06.18 17:04:25  6119 creating lock file </tmp/storeBackup.lock>
+INFO      2019.06.18 17:04:25  6119 analysis of old Backups in </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>:
+INFO      2019.06.18 17:04:25  6119    (0) Tue 2019.06.18_17.04.25 (0d0h): keepMinNumber1, keepWeekDays(30d)
+INFO      2019.06.18 17:04:25  6119 0 entries in dbm files
+INFO      2019.06.18 17:04:25  6119 0 entries in dbm block files
+INFO      2019.06.18 17:04:25  6119 setting atime, mtime of directories ...
+INFO      2019.06.18 17:04:25  6119 syncing ...
+STATISTIC 2019.06.18 17:04:25  6119  [sec] |      user|    system
+STATISTIC 2019.06.18 17:04:25  6119 -------+----------+----------
+STATISTIC 2019.06.18 17:04:25  6119 process|      0.19|      0.05
+STATISTIC 2019.06.18 17:04:25  6119 childs |      0.13|      0.03
+STATISTIC 2019.06.18 17:04:25  6119 -------+----------+----------
+STATISTIC 2019.06.18 17:04:25  6119 sum    |      0.32|      0.08 => 0.40 (0s)
+STATISTIC 2019.06.18 17:04:25  6119                    directories = 1
+STATISTIC 2019.06.18 17:04:25  6119                          files = 3
+STATISTIC 2019.06.18 17:04:25  6119                 symbolic links = 0
+STATISTIC 2019.06.18 17:04:25  6119                     late links = 0
+STATISTIC 2019.06.18 17:04:25  6119                    named pipes = 0
+STATISTIC 2019.06.18 17:04:25  6119                        sockets = 0
+STATISTIC 2019.06.18 17:04:25  6119                  block devices = 0
+STATISTIC 2019.06.18 17:04:25  6119              character devices = 0
+STATISTIC 2019.06.18 17:04:25  6119      new internal linked files = 0
+STATISTIC 2019.06.18 17:04:25  6119               old linked files = 0
+STATISTIC 2019.06.18 17:04:25  6119                unchanged files = 0
+STATISTIC 2019.06.18 17:04:25  6119                   copied files = 3
+STATISTIC 2019.06.18 17:04:25  6119               compressed files = 0
+STATISTIC 2019.06.18 17:04:25  6119                  blocked files = 0
+STATISTIC 2019.06.18 17:04:25  6119    excluded files because rule = 0 (0.0 )
+STATISTIC 2019.06.18 17:04:25  6119    included files because rule = 0 (0.0 )
+STATISTIC 2019.06.18 17:04:25  6119         max size of copy queue = 1
+STATISTIC 2019.06.18 17:04:25  6119  max size of compression queue = 0
+STATISTIC 2019.06.18 17:04:25  6119            calculated md5 sums = 6
+STATISTIC 2019.06.18 17:04:25  6119                    forks total = 1
+STATISTIC 2019.06.18 17:04:25  6119                      forks md5 = 1
+STATISTIC 2019.06.18 17:04:25  6119                     forks copy = 0
+STATISTIC 2019.06.18 17:04:25  6119                    forks bzip2 = 0
+STATISTIC 2019.06.18 17:04:25  6119                  sum of source =  46k (46673)
+STATISTIC 2019.06.18 17:04:25  6119              sum of target all =  46k (46673)
+STATISTIC 2019.06.18 17:04:25  6119              sum of target all = 100.00%
+STATISTIC 2019.06.18 17:04:25  6119              sum of target new =  46k (46673)
+STATISTIC 2019.06.18 17:04:25  6119              sum of target new = 100.00%
+STATISTIC 2019.06.18 17:04:25  6119             sum of md5ed files =  46k (46673)
+STATISTIC 2019.06.18 17:04:25  6119             sum of md5ed files = 100.00%
+STATISTIC 2019.06.18 17:04:25  6119     sum internal linked (copy) = 0.0  (0)
+STATISTIC 2019.06.18 17:04:25  6119    sum internal linked (compr) = 0.0  (0)
+STATISTIC 2019.06.18 17:04:25  6119          sum old linked (copy) = 0.0  (0)
+STATISTIC 2019.06.18 17:04:25  6119         sum old linked (compr) = 0.0  (0)
+STATISTIC 2019.06.18 17:04:25  6119           sum unchanged (copy) = 0.0  (0)
+STATISTIC 2019.06.18 17:04:25  6119          sum unchanged (compr) = 0.0  (0)
+STATISTIC 2019.06.18 17:04:25  6119                 sum new (copy) =  46k (46673)
+STATISTIC 2019.06.18 17:04:25  6119                sum new (compr) = 0.0  (0)
+STATISTIC 2019.06.18 17:04:25  6119     sum new (compr), orig size = 0.0  (0)
+STATISTIC 2019.06.18 17:04:25  6119                 sum new / orig = 100.00%
+STATISTIC 2019.06.18 17:04:25  6119       size of md5CheckSum file = 332  (332)
+STATISTIC 2019.06.18 17:04:25  6119     size of temporary db files = 0.0  (0)
+STATISTIC 2019.06.18 17:04:25  6119            deleted old backups = 0
+STATISTIC 2019.06.18 17:04:25  6119            deleted directories = 0
+STATISTIC 2019.06.18 17:04:25  6119                  deleted files = 0
+STATISTIC 2019.06.18 17:04:25  6119           (only) removed links = 0
+STATISTIC 2019.06.18 17:04:25  6119 freed space in old directories = 0.0  (0)
+STATISTIC 2019.06.18 17:04:25  6119       add. used space in files =  46k (47005)
+STATISTIC 2019.06.18 17:04:25  6119                backup duration = 1s
+STATISTIC 2019.06.18 17:04:25  6119 over all files/sec (real time) = 3.00
+STATISTIC 2019.06.18 17:04:25  6119  over all files/sec (CPU time) = 7.50
+STATISTIC 2019.06.18 17:04:25  6119                      CPU usage = 40.00%
+INFO      2019.06.18 17:04:25  6119 removing lock file </tmp/storeBackup.lock>
+WARNING   2019.06.18 17:04:25  6119 -- 1 WARNING OCCURRED DURING THE BACKUP! --
+END       2019.06.18 17:04:25  6119 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.06.18_17.04.25>
+BEGIN     2019.06.18 17:53:58  7239 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+VERSION   2019.06.18 17:53:58  7239 storeBackup.pl, 3.5
+INFO      2019.06.18 17:53:58  7239 setting ARG_MAX to 63488 (Linux)
+INFO      2019.06.18 17:53:58  7239 comprRule = $size > 10000000 and not $file =~ /\.zip\Z|\.bz2\Z|\.gz\Z|\.tgz\Z|\.jpg\Z|\.gif\Z|\.tiff?\Z|\.mpe?g\Z|\.mp[34]\Z|\.mpe?[34]\Z|\.ogg\Z|\.gpg\Z|\.png\Z|\.lzma\Z|\.xz\Z|\.mov\Z/i
+INFO      2019.06.18 17:53:58  7239 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> for existing backups
+INFO      2019.06.18 17:53:58  7239 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> for existing backups
+STATISTIC 2019.06.18 17:53:58  7239 found 1 backup series, 1 backups, 0 renamed backups
+INFO      2019.06.18 17:53:58  7239 consistency check finished successfully
+INFO      2019.06.18 17:53:58  7239 found no references to backups from lateLinks that need storeBackupUpdateBackup run
+INFO      2019.06.18 17:53:58  7239 excluding <Versions>:
+INFO      2019.06.18 17:53:58  7239     excluding </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+INFO      2019.06.18 17:53:58  7239 target directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> is in exception </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> of source directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4>, ok
+INFO      2019.06.18 17:53:58  7239 creating lock file </tmp/storeBackup.lock>
+INFO      2019.06.18 17:53:58  7239 analysis of old Backups in </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>:
+INFO      2019.06.18 17:53:58  7239    (1) Tue 2019.06.18_17.04.25 (0d0h): keepDuplicate(7d)
+INFO      2019.06.18 17:53:58  7239    (0) Tue 2019.06.18_17.53.58 (0d0h): keepMinNumber1, keepWeekDays(30d)
+INFO      2019.06.18 17:53:58  7239 start reading /home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.06.18_17.04.25/.md5CheckSums.bz2
+INFO      2019.06.18 17:53:58  7239 finished reading /home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.06.18_17.04.25/.md5CheckSums.bz2 (4 entries)
+INFO      2019.06.18 17:53:58  7239 3 entries in dbm files
+INFO      2019.06.18 17:53:58  7239 0 entries in dbm block files
+INFO      2019.06.18 17:53:58  7239 setting atime, mtime of directories ...
+INFO      2019.06.18 17:53:58  7239 syncing ...
+STATISTIC 2019.06.18 17:53:58  7239  [sec] |      user|    system
+STATISTIC 2019.06.18 17:53:58  7239 -------+----------+----------
+STATISTIC 2019.06.18 17:53:58  7239 process|      0.17|      0.02
+STATISTIC 2019.06.18 17:53:58  7239 childs |      0.13|      0.01
+STATISTIC 2019.06.18 17:53:58  7239 -------+----------+----------
+STATISTIC 2019.06.18 17:53:58  7239 sum    |      0.30|      0.03 => 0.33 (0s)
+STATISTIC 2019.06.18 17:53:58  7239                    directories = 1
+STATISTIC 2019.06.18 17:53:58  7239                          files = 11
+STATISTIC 2019.06.18 17:53:58  7239                 symbolic links = 0
+STATISTIC 2019.06.18 17:53:58  7239                     late links = 0
+STATISTIC 2019.06.18 17:53:58  7239                    named pipes = 0
+STATISTIC 2019.06.18 17:53:58  7239                        sockets = 0
+STATISTIC 2019.06.18 17:53:58  7239                  block devices = 0
+STATISTIC 2019.06.18 17:53:58  7239              character devices = 0
+STATISTIC 2019.06.18 17:53:58  7239      new internal linked files = 0
+STATISTIC 2019.06.18 17:53:58  7239               old linked files = 1
+STATISTIC 2019.06.18 17:53:58  7239                unchanged files = 1
+STATISTIC 2019.06.18 17:53:58  7239                   copied files = 10
+STATISTIC 2019.06.18 17:53:58  7239               compressed files = 0
+STATISTIC 2019.06.18 17:53:58  7239                  blocked files = 0
+STATISTIC 2019.06.18 17:53:58  7239    excluded files because rule = 0 (0.0 )
+STATISTIC 2019.06.18 17:53:58  7239    included files because rule = 0 (0.0 )
+STATISTIC 2019.06.18 17:53:58  7239         max size of copy queue = 1
+STATISTIC 2019.06.18 17:53:58  7239  max size of compression queue = 0
+STATISTIC 2019.06.18 17:53:58  7239            calculated md5 sums = 21
+STATISTIC 2019.06.18 17:53:58  7239                    forks total = 1
+STATISTIC 2019.06.18 17:53:58  7239                      forks md5 = 1
+STATISTIC 2019.06.18 17:53:58  7239                     forks copy = 0
+STATISTIC 2019.06.18 17:53:58  7239                    forks bzip2 = 0
+STATISTIC 2019.06.18 17:53:58  7239                  sum of source = 189k (193061)
+STATISTIC 2019.06.18 17:53:58  7239              sum of target all = 189k (193061)
+STATISTIC 2019.06.18 17:53:58  7239              sum of target all = 100.00%
+STATISTIC 2019.06.18 17:53:58  7239              sum of target new = 168k (172074)
+STATISTIC 2019.06.18 17:53:58  7239              sum of target new = 89.13%
+STATISTIC 2019.06.18 17:53:58  7239             sum of md5ed files = 189k (193061)
+STATISTIC 2019.06.18 17:53:58  7239             sum of md5ed files = 100.00%
+STATISTIC 2019.06.18 17:53:58  7239     sum internal linked (copy) = 0.0  (0)
+STATISTIC 2019.06.18 17:53:58  7239    sum internal linked (compr) = 0.0  (0)
+STATISTIC 2019.06.18 17:53:58  7239          sum old linked (copy) =  20k (20987)
+STATISTIC 2019.06.18 17:53:58  7239         sum old linked (compr) = 0.0  (0)
+STATISTIC 2019.06.18 17:53:58  7239           sum unchanged (copy) =  20k (20987)
+STATISTIC 2019.06.18 17:53:58  7239          sum unchanged (compr) = 0.0  (0)
+STATISTIC 2019.06.18 17:53:58  7239                 sum new (copy) = 168k (172074)
+STATISTIC 2019.06.18 17:53:58  7239                sum new (compr) = 0.0  (0)
+STATISTIC 2019.06.18 17:53:58  7239     sum new (compr), orig size = 0.0  (0)
+STATISTIC 2019.06.18 17:53:58  7239                 sum new / orig = 100.00%
+STATISTIC 2019.06.18 17:53:58  7239       size of md5CheckSum file = 656  (656)
+STATISTIC 2019.06.18 17:53:58  7239     size of temporary db files = 0.0  (0)
+STATISTIC 2019.06.18 17:53:58  7239            deleted old backups = 0
+STATISTIC 2019.06.18 17:53:58  7239            deleted directories = 0
+STATISTIC 2019.06.18 17:53:58  7239                  deleted files = 0
+STATISTIC 2019.06.18 17:53:58  7239           (only) removed links = 0
+STATISTIC 2019.06.18 17:53:58  7239 freed space in old directories = 0.0  (0)
+STATISTIC 2019.06.18 17:53:58  7239       add. used space in files = 169k (172730)
+STATISTIC 2019.06.18 17:53:58  7239                backup duration = 1s
+STATISTIC 2019.06.18 17:53:58  7239 over all files/sec (real time) = 11.00
+STATISTIC 2019.06.18 17:53:58  7239  over all files/sec (CPU time) = 33.33
+STATISTIC 2019.06.18 17:53:58  7239                      CPU usage = 33.00%
+INFO      2019.06.18 17:53:58  7239 removing lock file </tmp/storeBackup.lock>
+END       2019.06.18 17:53:58  7239 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.06.18_17.53.58>
+BEGIN     2019.06.21 09:00:40 11701 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+VERSION   2019.06.21 09:00:40 11701 storeBackup.pl, 3.5
+INFO      2019.06.21 09:00:40 11701 setting ARG_MAX to 63488 (Linux)
+INFO      2019.06.21 09:00:40 11701 comprRule = $size > 10000000 and not $file =~ /\.zip\Z|\.bz2\Z|\.gz\Z|\.tgz\Z|\.jpg\Z|\.gif\Z|\.tiff?\Z|\.mpe?g\Z|\.mp[34]\Z|\.mpe?[34]\Z|\.ogg\Z|\.gpg\Z|\.png\Z|\.lzma\Z|\.xz\Z|\.mov\Z/i
+INFO      2019.06.21 09:00:40 11701 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> for existing backups
+INFO      2019.06.21 09:00:40 11701 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> for existing backups
+STATISTIC 2019.06.21 09:00:40 11701 found 1 backup series, 2 backups, 0 renamed backups
+INFO      2019.06.21 09:00:40 11701 consistency check finished successfully
+INFO      2019.06.21 09:00:40 11701 found no references to backups from lateLinks that need storeBackupUpdateBackup run
+INFO      2019.06.21 09:00:40 11701 excluding <Versions>:
+INFO      2019.06.21 09:00:40 11701     excluding </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+INFO      2019.06.21 09:00:40 11701 target directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> is in exception </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> of source directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4>, ok
+INFO      2019.06.21 09:00:40 11701 creating lock file </tmp/storeBackup.lock>
+INFO      2019.06.21 09:00:40 11701 analysis of old Backups in </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>:
+INFO      2019.06.21 09:00:40 11701    (2) Tue 2019.06.18_17.04.25 (2d15h): keepDuplicate(7d)
+INFO      2019.06.21 09:00:40 11701    (1) Tue 2019.06.18_17.53.58 (2d15h): keepMinNumber2, keepWeekDays(30d)
+INFO      2019.06.21 09:00:40 11701    (0) Fri 2019.06.21_09.00.40 (0d0h): keepMinNumber1, keepWeekDays(30d)
+INFO      2019.06.21 09:00:40 11701 start reading /home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.06.18_17.53.58/.md5CheckSums.bz2
+INFO      2019.06.21 09:00:40 11701 finished reading /home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.06.18_17.53.58/.md5CheckSums.bz2 (12 entries)
+INFO      2019.06.21 09:00:40 11701 11 entries in dbm files
+INFO      2019.06.21 09:00:40 11701 0 entries in dbm block files
+INFO      2019.06.21 09:00:41 11701 setting atime, mtime of directories ...
+INFO      2019.06.21 09:00:41 11701 syncing ...
+STATISTIC 2019.06.21 09:00:41 11701  [sec] |      user|    system
+STATISTIC 2019.06.21 09:00:41 11701 -------+----------+----------
+STATISTIC 2019.06.21 09:00:41 11701 process|      0.21|      0.05
+STATISTIC 2019.06.21 09:00:41 11701 childs |      0.13|      0.04
+STATISTIC 2019.06.21 09:00:41 11701 -------+----------+----------
+STATISTIC 2019.06.21 09:00:41 11701 sum    |      0.34|      0.09 => 0.43 (0s)
+STATISTIC 2019.06.21 09:00:41 11701                    directories = 1
+STATISTIC 2019.06.21 09:00:41 11701                          files = 12
+STATISTIC 2019.06.21 09:00:41 11701                 symbolic links = 0
+STATISTIC 2019.06.21 09:00:41 11701                     late links = 0
+STATISTIC 2019.06.21 09:00:41 11701                    named pipes = 0
+STATISTIC 2019.06.21 09:00:41 11701                        sockets = 0
+STATISTIC 2019.06.21 09:00:41 11701                  block devices = 0
+STATISTIC 2019.06.21 09:00:41 11701              character devices = 0
+STATISTIC 2019.06.21 09:00:41 11701      new internal linked files = 0
+STATISTIC 2019.06.21 09:00:41 11701               old linked files = 3
+STATISTIC 2019.06.21 09:00:41 11701                unchanged files = 3
+STATISTIC 2019.06.21 09:00:41 11701                   copied files = 9
+STATISTIC 2019.06.21 09:00:41 11701               compressed files = 0
+STATISTIC 2019.06.21 09:00:41 11701                  blocked files = 0
+STATISTIC 2019.06.21 09:00:41 11701    excluded files because rule = 0 (0.0 )
+STATISTIC 2019.06.21 09:00:41 11701    included files because rule = 0 (0.0 )
+STATISTIC 2019.06.21 09:00:41 11701         max size of copy queue = 1
+STATISTIC 2019.06.21 09:00:41 11701  max size of compression queue = 0
+STATISTIC 2019.06.21 09:00:41 11701            calculated md5 sums = 21
+STATISTIC 2019.06.21 09:00:41 11701                    forks total = 1
+STATISTIC 2019.06.21 09:00:41 11701                      forks md5 = 1
+STATISTIC 2019.06.21 09:00:41 11701                     forks copy = 0
+STATISTIC 2019.06.21 09:00:41 11701                    forks bzip2 = 0
+STATISTIC 2019.06.21 09:00:41 11701                  sum of source = 219k (224476)
+STATISTIC 2019.06.21 09:00:41 11701              sum of target all = 219k (224476)
+STATISTIC 2019.06.21 09:00:41 11701              sum of target all = 100.00%
+STATISTIC 2019.06.21 09:00:41 11701              sum of target new = 199k (203489)
+STATISTIC 2019.06.21 09:00:41 11701              sum of target new = 90.65%
+STATISTIC 2019.06.21 09:00:41 11701             sum of md5ed files = 219k (224476)
+STATISTIC 2019.06.21 09:00:41 11701             sum of md5ed files = 100.00%
+STATISTIC 2019.06.21 09:00:41 11701     sum internal linked (copy) = 0.0  (0)
+STATISTIC 2019.06.21 09:00:41 11701    sum internal linked (compr) = 0.0  (0)
+STATISTIC 2019.06.21 09:00:41 11701          sum old linked (copy) =  20k (20987)
+STATISTIC 2019.06.21 09:00:41 11701         sum old linked (compr) = 0.0  (0)
+STATISTIC 2019.06.21 09:00:41 11701           sum unchanged (copy) =  20k (20987)
+STATISTIC 2019.06.21 09:00:41 11701          sum unchanged (compr) = 0.0  (0)
+STATISTIC 2019.06.21 09:00:41 11701                 sum new (copy) = 199k (203489)
+STATISTIC 2019.06.21 09:00:41 11701                sum new (compr) = 0.0  (0)
+STATISTIC 2019.06.21 09:00:41 11701     sum new (compr), orig size = 0.0  (0)
+STATISTIC 2019.06.21 09:00:41 11701                 sum new / orig = 100.00%
+STATISTIC 2019.06.21 09:00:41 11701       size of md5CheckSum file = 702  (702)
+STATISTIC 2019.06.21 09:00:41 11701     size of temporary db files = 0.0  (0)
+STATISTIC 2019.06.21 09:00:41 11701            deleted old backups = 0
+STATISTIC 2019.06.21 09:00:41 11701            deleted directories = 0
+STATISTIC 2019.06.21 09:00:41 11701                  deleted files = 0
+STATISTIC 2019.06.21 09:00:41 11701           (only) removed links = 0
+STATISTIC 2019.06.21 09:00:41 11701 freed space in old directories = 0.0  (0)
+STATISTIC 2019.06.21 09:00:41 11701       add. used space in files = 199k (204191)
+STATISTIC 2019.06.21 09:00:41 11701                backup duration = 1s
+STATISTIC 2019.06.21 09:00:41 11701 over all files/sec (real time) = 12.00
+STATISTIC 2019.06.21 09:00:41 11701  over all files/sec (CPU time) = 27.91
+STATISTIC 2019.06.21 09:00:41 11701                      CPU usage = 43.00%
+INFO      2019.06.21 09:00:41 11701 removing lock file </tmp/storeBackup.lock>
+END       2019.06.21 09:00:41 11701 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.06.21_09.00.40>
+BEGIN     2019.06.21 15:27:25 19966 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+VERSION   2019.06.21 15:27:25 19966 storeBackup.pl, 3.5
+INFO      2019.06.21 15:27:25 19966 setting ARG_MAX to 63488 (Linux)
+INFO      2019.06.21 15:27:25 19966 comprRule = $size > 10000000 and not $file =~ /\.zip\Z|\.bz2\Z|\.gz\Z|\.tgz\Z|\.jpg\Z|\.gif\Z|\.tiff?\Z|\.mpe?g\Z|\.mp[34]\Z|\.mpe?[34]\Z|\.ogg\Z|\.gpg\Z|\.png\Z|\.lzma\Z|\.xz\Z|\.mov\Z/i
+INFO      2019.06.21 15:27:25 19966 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> for existing backups
+INFO      2019.06.21 15:27:25 19966 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> for existing backups
+STATISTIC 2019.06.21 15:27:25 19966 found 1 backup series, 3 backups, 0 renamed backups
+INFO      2019.06.21 15:27:25 19966 consistency check finished successfully
+INFO      2019.06.21 15:27:25 19966 found no references to backups from lateLinks that need storeBackupUpdateBackup run
+INFO      2019.06.21 15:27:25 19966 excluding <Versions>:
+INFO      2019.06.21 15:27:25 19966     excluding </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+INFO      2019.06.21 15:27:25 19966 target directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> is in exception </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> of source directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4>, ok
+INFO      2019.06.21 15:27:25 19966 creating lock file </tmp/storeBackup.lock>
+INFO      2019.06.21 15:27:25 19966 analysis of old Backups in </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>:
+INFO      2019.06.21 15:27:25 19966    (3) Tue 2019.06.18_17.04.25 (2d22h): keepDuplicate(7d)
+INFO      2019.06.21 15:27:25 19966    (2) Tue 2019.06.18_17.53.58 (2d21h): keepMinNumber2, keepWeekDays(30d)
+INFO      2019.06.21 15:27:25 19966    (1) Fri 2019.06.21_09.00.40 (0d6h): keepDuplicate(7d)
+INFO      2019.06.21 15:27:25 19966    (0) Fri 2019.06.21_15.27.25 (0d0h): keepMinNumber1, keepWeekDays(30d)
+INFO      2019.06.21 15:27:25 19966 start reading /home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.06.21_09.00.40/.md5CheckSums.bz2
+INFO      2019.06.21 15:27:25 19966 finished reading /home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.06.21_09.00.40/.md5CheckSums.bz2 (13 entries)
+INFO      2019.06.21 15:27:25 19966 12 entries in dbm files
+INFO      2019.06.21 15:27:25 19966 0 entries in dbm block files
+INFO      2019.06.21 15:27:35 19966 setting atime, mtime of directories ...
+INFO      2019.06.21 15:27:35 19966 syncing ...
+STATISTIC 2019.06.21 15:27:36 19966  [sec] |      user|    system
+STATISTIC 2019.06.21 15:27:36 19966 -------+----------+----------
+STATISTIC 2019.06.21 15:27:36 19966 process|      0.18|      0.02
+STATISTIC 2019.06.21 15:27:36 19966 childs |     10.33|      0.12
+STATISTIC 2019.06.21 15:27:36 19966 -------+----------+----------
+STATISTIC 2019.06.21 15:27:36 19966 sum    |     10.51|      0.14 => 10.65 (11s)
+STATISTIC 2019.06.21 15:27:36 19966                    directories = 1
+STATISTIC 2019.06.21 15:27:36 19966                          files = 13
+STATISTIC 2019.06.21 15:27:36 19966                 symbolic links = 0
+STATISTIC 2019.06.21 15:27:36 19966                     late links = 0
+STATISTIC 2019.06.21 15:27:36 19966                    named pipes = 0
+STATISTIC 2019.06.21 15:27:36 19966                        sockets = 0
+STATISTIC 2019.06.21 15:27:36 19966                  block devices = 0
+STATISTIC 2019.06.21 15:27:36 19966              character devices = 0
+STATISTIC 2019.06.21 15:27:36 19966      new internal linked files = 0
+STATISTIC 2019.06.21 15:27:36 19966               old linked files = 7
+STATISTIC 2019.06.21 15:27:36 19966                unchanged files = 7
+STATISTIC 2019.06.21 15:27:36 19966                   copied files = 5
+STATISTIC 2019.06.21 15:27:36 19966               compressed files = 1
+STATISTIC 2019.06.21 15:27:36 19966                  blocked files = 0
+STATISTIC 2019.06.21 15:27:36 19966    excluded files because rule = 0 (0.0 )
+STATISTIC 2019.06.21 15:27:36 19966    included files because rule = 0 (0.0 )
+STATISTIC 2019.06.21 15:27:36 19966         max size of copy queue = 1
+STATISTIC 2019.06.21 15:27:36 19966  max size of compression queue = 1
+STATISTIC 2019.06.21 15:27:36 19966            calculated md5 sums = 13
+STATISTIC 2019.06.21 15:27:36 19966                    forks total = 2
+STATISTIC 2019.06.21 15:27:36 19966                      forks md5 = 1
+STATISTIC 2019.06.21 15:27:36 19966                     forks copy = 0
+STATISTIC 2019.06.21 15:27:36 19966                    forks bzip2 = 1
+STATISTIC 2019.06.21 15:27:36 19966                  sum of source = 108M (112971957)
+STATISTIC 2019.06.21 15:27:36 19966              sum of target all =  35M (36597571)
+STATISTIC 2019.06.21 15:27:36 19966              sum of target all = 32.40%
+STATISTIC 2019.06.21 15:27:36 19966              sum of target new =  35M (36421368)
+STATISTIC 2019.06.21 15:27:36 19966              sum of target new = 32.24%
+STATISTIC 2019.06.21 15:27:36 19966             sum of md5ed files = 108M (112816741)
+STATISTIC 2019.06.21 15:27:36 19966             sum of md5ed files = 99.86%
+STATISTIC 2019.06.21 15:27:36 19966     sum internal linked (copy) = 0.0  (0)
+STATISTIC 2019.06.21 15:27:36 19966    sum internal linked (compr) = 0.0  (0)
+STATISTIC 2019.06.21 15:27:36 19966          sum old linked (copy) = 172k (176203)
+STATISTIC 2019.06.21 15:27:36 19966         sum old linked (compr) = 0.0  (0)
+STATISTIC 2019.06.21 15:27:36 19966           sum unchanged (copy) = 172k (176203)
+STATISTIC 2019.06.21 15:27:36 19966          sum unchanged (compr) = 0.0  (0)
+STATISTIC 2019.06.21 15:27:36 19966                 sum new (copy) = 624k (638969)
+STATISTIC 2019.06.21 15:27:36 19966                sum new (compr) =  34M (35782399)
+STATISTIC 2019.06.21 15:27:36 19966     sum new (compr), orig size = 107M (112156785)
+STATISTIC 2019.06.21 15:27:36 19966                 sum new / orig = 32.29%
+STATISTIC 2019.06.21 15:27:36 19966       size of md5CheckSum file = 758  (758)
+STATISTIC 2019.06.21 15:27:36 19966     size of temporary db files = 0.0  (0)
+STATISTIC 2019.06.21 15:27:36 19966            deleted old backups = 0
+STATISTIC 2019.06.21 15:27:36 19966            deleted directories = 0
+STATISTIC 2019.06.21 15:27:36 19966                  deleted files = 0
+STATISTIC 2019.06.21 15:27:36 19966           (only) removed links = 0
+STATISTIC 2019.06.21 15:27:36 19966 freed space in old directories = 0.0  (0)
+STATISTIC 2019.06.21 15:27:36 19966       add. used space in files =  35M (36422126)
+STATISTIC 2019.06.21 15:27:36 19966                backup duration = 11s
+STATISTIC 2019.06.21 15:27:36 19966 over all files/sec (real time) = 1.18
+STATISTIC 2019.06.21 15:27:36 19966  over all files/sec (CPU time) = 1.22
+STATISTIC 2019.06.21 15:27:36 19966                      CPU usage = 96.82%
+INFO      2019.06.21 15:27:36 19966 removing lock file </tmp/storeBackup.lock>
+END       2019.06.21 15:27:36 19966 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.06.21_15.27.25>
+BEGIN     2019.06.25 17:51:21  6821 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+VERSION   2019.06.25 17:51:21  6821 storeBackup.pl, 3.5
+INFO      2019.06.25 17:51:21  6821 setting ARG_MAX to 63488 (Linux)
+INFO      2019.06.25 17:51:21  6821 comprRule = $size > 10000000 and not $file =~ /\.zip\Z|\.bz2\Z|\.gz\Z|\.tgz\Z|\.jpg\Z|\.gif\Z|\.tiff?\Z|\.mpe?g\Z|\.mp[34]\Z|\.mpe?[34]\Z|\.ogg\Z|\.gpg\Z|\.png\Z|\.lzma\Z|\.xz\Z|\.mov\Z/i
+INFO      2019.06.25 17:51:21  6821 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> for existing backups
+INFO      2019.06.25 17:51:21  6821 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> for existing backups
+STATISTIC 2019.06.25 17:51:21  6821 found 1 backup series, 4 backups, 0 renamed backups
+INFO      2019.06.25 17:51:21  6821 consistency check finished successfully
+INFO      2019.06.25 17:51:21  6821 found no references to backups from lateLinks that need storeBackupUpdateBackup run
+INFO      2019.06.25 17:51:21  6821 excluding <Versions>:
+INFO      2019.06.25 17:51:21  6821     excluding </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+INFO      2019.06.25 17:51:21  6821 target directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> is in exception </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> of source directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4>, ok
+INFO      2019.06.25 17:51:21  6821 creating lock file </tmp/storeBackup.lock>
+INFO      2019.06.25 17:51:21  6821 analysis of old Backups in </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>:
+INFO      2019.06.25 17:51:21  6821    (4) Tue 2019.06.18_17.04.25 (7d0h): keepMinNumber4
+INFO      2019.06.25 17:51:21  6821    (3) Tue 2019.06.18_17.53.58 (6d23h): keepMinNumber3, keepWeekDays(30d)
+INFO      2019.06.25 17:51:21  6821    (2) Fri 2019.06.21_09.00.40 (4d8h): keepDuplicate(7d)
+INFO      2019.06.25 17:51:21  6821    (1) Fri 2019.06.21_15.27.25 (4d2h): keepMinNumber2, keepWeekDays(30d)
+INFO      2019.06.25 17:51:21  6821    (0) Tue 2019.06.25_17.51.21 (0d0h): keepMinNumber1, keepWeekDays(30d)
+INFO      2019.06.25 17:51:21  6821 start reading /home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.06.21_15.27.25/.md5CheckSums.bz2
+INFO      2019.06.25 17:51:21  6821 finished reading /home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.06.21_15.27.25/.md5CheckSums.bz2 (14 entries)
+INFO      2019.06.25 17:51:21  6821 13 entries in dbm files
+INFO      2019.06.25 17:51:21  6821 0 entries in dbm block files
+INFO      2019.06.25 17:51:21  6821 setting atime, mtime of directories ...
+INFO      2019.06.25 17:51:21  6821 syncing ...
+STATISTIC 2019.06.25 17:51:21  6821  [sec] |      user|    system
+STATISTIC 2019.06.25 17:51:21  6821 -------+----------+----------
+STATISTIC 2019.06.25 17:51:21  6821 process|      0.16|      0.07
+STATISTIC 2019.06.25 17:51:21  6821 childs |      0.18|      0.02
+STATISTIC 2019.06.25 17:51:21  6821 -------+----------+----------
+STATISTIC 2019.06.25 17:51:21  6821 sum    |      0.34|      0.09 => 0.43 (0s)
+STATISTIC 2019.06.25 17:51:21  6821                    directories = 1
+STATISTIC 2019.06.25 17:51:21  6821                          files = 14
+STATISTIC 2019.06.25 17:51:21  6821                 symbolic links = 0
+STATISTIC 2019.06.25 17:51:21  6821                     late links = 0
+STATISTIC 2019.06.25 17:51:21  6821                    named pipes = 0
+STATISTIC 2019.06.25 17:51:21  6821                        sockets = 0
+STATISTIC 2019.06.25 17:51:21  6821                  block devices = 0
+STATISTIC 2019.06.25 17:51:21  6821              character devices = 0
+STATISTIC 2019.06.25 17:51:21  6821      new internal linked files = 0
+STATISTIC 2019.06.25 17:51:21  6821               old linked files = 7
+STATISTIC 2019.06.25 17:51:21  6821                unchanged files = 7
+STATISTIC 2019.06.25 17:51:21  6821                   copied files = 7
+STATISTIC 2019.06.25 17:51:21  6821               compressed files = 0
+STATISTIC 2019.06.25 17:51:21  6821                  blocked files = 0
+STATISTIC 2019.06.25 17:51:21  6821    excluded files because rule = 0 (0.0 )
+STATISTIC 2019.06.25 17:51:21  6821    included files because rule = 0 (0.0 )
+STATISTIC 2019.06.25 17:51:21  6821         max size of copy queue = 5
+STATISTIC 2019.06.25 17:51:21  6821  max size of compression queue = 0
+STATISTIC 2019.06.25 17:51:21  6821            calculated md5 sums = 15
+STATISTIC 2019.06.25 17:51:21  6821                    forks total = 2
+STATISTIC 2019.06.25 17:51:21  6821                      forks md5 = 1
+STATISTIC 2019.06.25 17:51:21  6821                     forks copy = 1
+STATISTIC 2019.06.25 17:51:21  6821                    forks bzip2 = 0
+STATISTIC 2019.06.25 17:51:21  6821                  sum of source = 1.2M (1307766)
+STATISTIC 2019.06.25 17:51:21  6821              sum of target all = 1.2M (1307766)
+STATISTIC 2019.06.25 17:51:21  6821              sum of target all = 100.00%
+STATISTIC 2019.06.25 17:51:21  6821              sum of target new = 1.1M (1131563)
+STATISTIC 2019.06.25 17:51:21  6821              sum of target new = 86.53%
+STATISTIC 2019.06.25 17:51:21  6821             sum of md5ed files = 1.1M (1152550)
+STATISTIC 2019.06.25 17:51:21  6821             sum of md5ed files = 88.13%
+STATISTIC 2019.06.25 17:51:21  6821     sum internal linked (copy) = 0.0  (0)
+STATISTIC 2019.06.25 17:51:21  6821    sum internal linked (compr) = 0.0  (0)
+STATISTIC 2019.06.25 17:51:21  6821          sum old linked (copy) = 172k (176203)
+STATISTIC 2019.06.25 17:51:21  6821         sum old linked (compr) = 0.0  (0)
+STATISTIC 2019.06.25 17:51:21  6821           sum unchanged (copy) = 172k (176203)
+STATISTIC 2019.06.25 17:51:21  6821          sum unchanged (compr) = 0.0  (0)
+STATISTIC 2019.06.25 17:51:21  6821                 sum new (copy) = 1.1M (1131563)
+STATISTIC 2019.06.25 17:51:21  6821                sum new (compr) = 0.0  (0)
+STATISTIC 2019.06.25 17:51:21  6821     sum new (compr), orig size = 0.0  (0)
+STATISTIC 2019.06.25 17:51:21  6821                 sum new / orig = 100.00%
+STATISTIC 2019.06.25 17:51:21  6821       size of md5CheckSum file = 839  (839)
+STATISTIC 2019.06.25 17:51:21  6821     size of temporary db files = 0.0  (0)
+STATISTIC 2019.06.25 17:51:21  6821            deleted old backups = 0
+STATISTIC 2019.06.25 17:51:21  6821            deleted directories = 0
+STATISTIC 2019.06.25 17:51:21  6821                  deleted files = 0
+STATISTIC 2019.06.25 17:51:21  6821           (only) removed links = 0
+STATISTIC 2019.06.25 17:51:21  6821 freed space in old directories = 0.0  (0)
+STATISTIC 2019.06.25 17:51:21  6821       add. used space in files = 1.1M (1132402)
+STATISTIC 2019.06.25 17:51:21  6821                backup duration = 1s
+STATISTIC 2019.06.25 17:51:21  6821 over all files/sec (real time) = 14.00
+STATISTIC 2019.06.25 17:51:21  6821  over all files/sec (CPU time) = 32.56
+STATISTIC 2019.06.25 17:51:21  6821                      CPU usage = 43.00%
+INFO      2019.06.25 17:51:21  6821 removing lock file </tmp/storeBackup.lock>
+END       2019.06.25 17:51:21  6821 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.06.25_17.51.21>
+BEGIN     2019.06.26 18:40:55 22004 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+VERSION   2019.06.26 18:40:55 22004 storeBackup.pl, 3.5
+INFO      2019.06.26 18:40:55 22004 setting ARG_MAX to 63488 (Linux)
+INFO      2019.06.26 18:40:55 22004 comprRule = $size > 10000000 and not $file =~ /\.zip\Z|\.bz2\Z|\.gz\Z|\.tgz\Z|\.jpg\Z|\.gif\Z|\.tiff?\Z|\.mpe?g\Z|\.mp[34]\Z|\.mpe?[34]\Z|\.ogg\Z|\.gpg\Z|\.png\Z|\.lzma\Z|\.xz\Z|\.mov\Z/i
+INFO      2019.06.26 18:40:55 22004 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> for existing backups
+INFO      2019.06.26 18:40:55 22004 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> for existing backups
+STATISTIC 2019.06.26 18:40:55 22004 found 1 backup series, 5 backups, 0 renamed backups
+INFO      2019.06.26 18:40:55 22004 consistency check finished successfully
+INFO      2019.06.26 18:40:55 22004 found no references to backups from lateLinks that need storeBackupUpdateBackup run
+INFO      2019.06.26 18:40:55 22004 excluding <Versions>:
+INFO      2019.06.26 18:40:55 22004     excluding </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+INFO      2019.06.26 18:40:55 22004 target directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> is in exception </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> of source directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4>, ok
+INFO      2019.06.26 18:40:55 22004 creating lock file </tmp/storeBackup.lock>
+INFO      2019.06.26 18:40:55 22004 analysis of old Backups in </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>:
+INFO      2019.06.26 18:40:55 22004    (5) Tue 2019.06.18_17.04.25 (8d1h): keepMinNumber5
+INFO      2019.06.26 18:40:55 22004    (4) Tue 2019.06.18_17.53.58 (8d0h): keepMinNumber4, keepWeekDays(30d)
+INFO      2019.06.26 18:40:55 22004    (3) Fri 2019.06.21_09.00.40 (5d9h): keepDuplicate(7d)
+INFO      2019.06.26 18:40:55 22004    (2) Fri 2019.06.21_15.27.25 (5d3h): keepMinNumber3, keepWeekDays(30d)
+INFO      2019.06.26 18:40:55 22004    (1) Tue 2019.06.25_17.51.21 (1d0h): keepMinNumber2, keepWeekDays(30d)
+INFO      2019.06.26 18:40:55 22004    (0) Wed 2019.06.26_18.40.55 (0d0h): keepMinNumber1, keepWeekDays(30d)
+INFO      2019.06.26 18:40:55 22004 start reading /home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.06.25_17.51.21/.md5CheckSums.bz2
+INFO      2019.06.26 18:40:55 22004 finished reading /home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.06.25_17.51.21/.md5CheckSums.bz2 (15 entries)
+INFO      2019.06.26 18:40:55 22004 14 entries in dbm files
+INFO      2019.06.26 18:40:55 22004 0 entries in dbm block files
+INFO      2019.06.26 18:40:55 22004 setting atime, mtime of directories ...
+INFO      2019.06.26 18:40:55 22004 syncing ...
+STATISTIC 2019.06.26 18:40:56 22004  [sec] |      user|    system
+STATISTIC 2019.06.26 18:40:56 22004 -------+----------+----------
+STATISTIC 2019.06.26 18:40:56 22004 process|      0.20|      0.08
+STATISTIC 2019.06.26 18:40:56 22004 childs |      0.24|      0.02
+STATISTIC 2019.06.26 18:40:56 22004 -------+----------+----------
+STATISTIC 2019.06.26 18:40:56 22004 sum    |      0.44|      0.10 => 0.54 (1s)
+STATISTIC 2019.06.26 18:40:56 22004                    directories = 1
+STATISTIC 2019.06.26 18:40:56 22004                          files = 14
+STATISTIC 2019.06.26 18:40:56 22004                 symbolic links = 0
+STATISTIC 2019.06.26 18:40:56 22004                     late links = 0
+STATISTIC 2019.06.26 18:40:56 22004                    named pipes = 0
+STATISTIC 2019.06.26 18:40:56 22004                        sockets = 0
+STATISTIC 2019.06.26 18:40:56 22004                  block devices = 0
+STATISTIC 2019.06.26 18:40:56 22004              character devices = 0
+STATISTIC 2019.06.26 18:40:56 22004      new internal linked files = 0
+STATISTIC 2019.06.26 18:40:56 22004               old linked files = 7
+STATISTIC 2019.06.26 18:40:56 22004                unchanged files = 7
+STATISTIC 2019.06.26 18:40:56 22004                   copied files = 7
+STATISTIC 2019.06.26 18:40:56 22004               compressed files = 0
+STATISTIC 2019.06.26 18:40:56 22004                  blocked files = 0
+STATISTIC 2019.06.26 18:40:56 22004    excluded files because rule = 0 (0.0 )
+STATISTIC 2019.06.26 18:40:56 22004    included files because rule = 0 (0.0 )
+STATISTIC 2019.06.26 18:40:56 22004         max size of copy queue = 5
+STATISTIC 2019.06.26 18:40:56 22004  max size of compression queue = 0
+STATISTIC 2019.06.26 18:40:56 22004            calculated md5 sums = 15
+STATISTIC 2019.06.26 18:40:56 22004                    forks total = 3
+STATISTIC 2019.06.26 18:40:56 22004                      forks md5 = 1
+STATISTIC 2019.06.26 18:40:56 22004                     forks copy = 2
+STATISTIC 2019.06.26 18:40:56 22004                    forks bzip2 = 0
+STATISTIC 2019.06.26 18:40:56 22004                  sum of source = 3.3M (3501621)
+STATISTIC 2019.06.26 18:40:56 22004              sum of target all = 3.3M (3501621)
+STATISTIC 2019.06.26 18:40:56 22004              sum of target all = 100.00%
+STATISTIC 2019.06.26 18:40:56 22004              sum of target new = 3.2M (3325418)
+STATISTIC 2019.06.26 18:40:56 22004              sum of target new = 94.97%
+STATISTIC 2019.06.26 18:40:56 22004             sum of md5ed files = 3.2M (3346405)
+STATISTIC 2019.06.26 18:40:56 22004             sum of md5ed files = 95.57%
+STATISTIC 2019.06.26 18:40:56 22004     sum internal linked (copy) = 0.0  (0)
+STATISTIC 2019.06.26 18:40:56 22004    sum internal linked (compr) = 0.0  (0)
+STATISTIC 2019.06.26 18:40:56 22004          sum old linked (copy) = 172k (176203)
+STATISTIC 2019.06.26 18:40:56 22004         sum old linked (compr) = 0.0  (0)
+STATISTIC 2019.06.26 18:40:56 22004           sum unchanged (copy) = 172k (176203)
+STATISTIC 2019.06.26 18:40:56 22004          sum unchanged (compr) = 0.0  (0)
+STATISTIC 2019.06.26 18:40:56 22004                 sum new (copy) = 3.2M (3325418)
+STATISTIC 2019.06.26 18:40:56 22004                sum new (compr) = 0.0  (0)
+STATISTIC 2019.06.26 18:40:56 22004     sum new (compr), orig size = 0.0  (0)
+STATISTIC 2019.06.26 18:40:56 22004                 sum new / orig = 100.00%
+STATISTIC 2019.06.26 18:40:56 22004       size of md5CheckSum file = 821  (821)
+STATISTIC 2019.06.26 18:40:56 22004     size of temporary db files = 0.0  (0)
+STATISTIC 2019.06.26 18:40:56 22004            deleted old backups = 0
+STATISTIC 2019.06.26 18:40:56 22004            deleted directories = 0
+STATISTIC 2019.06.26 18:40:56 22004                  deleted files = 0
+STATISTIC 2019.06.26 18:40:56 22004           (only) removed links = 0
+STATISTIC 2019.06.26 18:40:56 22004 freed space in old directories = 0.0  (0)
+STATISTIC 2019.06.26 18:40:56 22004       add. used space in files = 3.2M (3326239)
+STATISTIC 2019.06.26 18:40:56 22004                backup duration = 1s
+STATISTIC 2019.06.26 18:40:56 22004 over all files/sec (real time) = 14.00
+STATISTIC 2019.06.26 18:40:56 22004  over all files/sec (CPU time) = 25.93
+STATISTIC 2019.06.26 18:40:56 22004                      CPU usage = 54.00%
+INFO      2019.06.26 18:40:56 22004 removing lock file </tmp/storeBackup.lock>
+END       2019.06.26 18:40:56 22004 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.06.26_18.40.55>
+BEGIN     2019.07.04 18:21:00  5976 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+VERSION   2019.07.04 18:21:00  5976 storeBackup.pl, 3.5
+INFO      2019.07.04 18:21:00  5976 setting ARG_MAX to 63488 (Linux)
+INFO      2019.07.04 18:21:00  5976 comprRule = $size > 10000000 and not $file =~ /\.zip\Z|\.bz2\Z|\.gz\Z|\.tgz\Z|\.jpg\Z|\.gif\Z|\.tiff?\Z|\.mpe?g\Z|\.mp[34]\Z|\.mpe?[34]\Z|\.ogg\Z|\.gpg\Z|\.png\Z|\.lzma\Z|\.xz\Z|\.mov\Z/i
+INFO      2019.07.04 18:21:00  5976 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> for existing backups
+INFO      2019.07.04 18:21:00  5976 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> for existing backups
+STATISTIC 2019.07.04 18:21:00  5976 found 1 backup series, 6 backups, 0 renamed backups
+INFO      2019.07.04 18:21:00  5976 consistency check finished successfully
+INFO      2019.07.04 18:21:00  5976 found no references to backups from lateLinks that need storeBackupUpdateBackup run
+INFO      2019.07.04 18:21:00  5976 excluding <Versions>:
+INFO      2019.07.04 18:21:00  5976     excluding </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+INFO      2019.07.04 18:21:00  5976 target directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> is in exception </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> of source directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4>, ok
+INFO      2019.07.04 18:21:00  5976 creating lock file </tmp/storeBackup.lock>
+INFO      2019.07.04 18:21:00  5976 analysis of old Backups in </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>:
+INFO      2019.07.04 18:21:00  5976    (6) Tue 2019.06.18_17.04.25 (16d1h): keepMinNumber7
+INFO      2019.07.04 18:21:00  5976    (5) Tue 2019.06.18_17.53.58 (16d0h): keepMinNumber6, keepWeekDays(30d)
+INFO      2019.07.04 18:21:00  5976    (4) Fri 2019.06.21_09.00.40 (13d9h): keepMinNumber5
+INFO      2019.07.04 18:21:00  5976    (3) Fri 2019.06.21_15.27.25 (13d2h): keepMinNumber4, keepWeekDays(30d)
+INFO      2019.07.04 18:21:00  5976    (2) Tue 2019.06.25_17.51.21 (9d0h): keepMinNumber3, keepWeekDays(30d)
+INFO      2019.07.04 18:21:00  5976    (1) Wed 2019.06.26_18.40.55 (7d23h): keepMinNumber2, keepWeekDays(30d)
+INFO      2019.07.04 18:21:00  5976    (0) Thu 2019.07.04_18.21.00 (0d0h): keepMinNumber1, keepWeekDays(30d)
+INFO      2019.07.04 18:21:00  5976 start reading /home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.06.26_18.40.55/.md5CheckSums.bz2
+INFO      2019.07.04 18:21:00  5976 finished reading /home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.06.26_18.40.55/.md5CheckSums.bz2 (15 entries)
+INFO      2019.07.04 18:21:00  5976 14 entries in dbm files
+INFO      2019.07.04 18:21:00  5976 0 entries in dbm block files
+INFO      2019.07.04 18:21:01  5976 setting atime, mtime of directories ...
+INFO      2019.07.04 18:21:01  5976 syncing ...
+STATISTIC 2019.07.04 18:21:01  5976  [sec] |      user|    system
+STATISTIC 2019.07.04 18:21:01  5976 -------+----------+----------
+STATISTIC 2019.07.04 18:21:01  5976 process|      0.19|      0.06
+STATISTIC 2019.07.04 18:21:01  5976 childs |      0.22|      0.04
+STATISTIC 2019.07.04 18:21:01  5976 -------+----------+----------
+STATISTIC 2019.07.04 18:21:01  5976 sum    |      0.41|      0.10 => 0.51 (1s)
+STATISTIC 2019.07.04 18:21:01  5976                    directories = 1
+STATISTIC 2019.07.04 18:21:01  5976                          files = 21
+STATISTIC 2019.07.04 18:21:01  5976                 symbolic links = 0
+STATISTIC 2019.07.04 18:21:01  5976                     late links = 0
+STATISTIC 2019.07.04 18:21:01  5976                    named pipes = 0
+STATISTIC 2019.07.04 18:21:01  5976                        sockets = 0
+STATISTIC 2019.07.04 18:21:01  5976                  block devices = 0
+STATISTIC 2019.07.04 18:21:01  5976              character devices = 0
+STATISTIC 2019.07.04 18:21:01  5976      new internal linked files = 0
+STATISTIC 2019.07.04 18:21:01  5976               old linked files = 2
+STATISTIC 2019.07.04 18:21:01  5976                unchanged files = 2
+STATISTIC 2019.07.04 18:21:01  5976                   copied files = 19
+STATISTIC 2019.07.04 18:21:01  5976               compressed files = 0
+STATISTIC 2019.07.04 18:21:01  5976                  blocked files = 0
+STATISTIC 2019.07.04 18:21:01  5976    excluded files because rule = 0 (0.0 )
+STATISTIC 2019.07.04 18:21:01  5976    included files because rule = 0 (0.0 )
+STATISTIC 2019.07.04 18:21:01  5976         max size of copy queue = 12
+STATISTIC 2019.07.04 18:21:01  5976  max size of compression queue = 0
+STATISTIC 2019.07.04 18:21:01  5976            calculated md5 sums = 40
+STATISTIC 2019.07.04 18:21:01  5976                    forks total = 3
+STATISTIC 2019.07.04 18:21:01  5976                      forks md5 = 1
+STATISTIC 2019.07.04 18:21:01  5976                     forks copy = 2
+STATISTIC 2019.07.04 18:21:01  5976                    forks bzip2 = 0
+STATISTIC 2019.07.04 18:21:01  5976                  sum of source =  10M (10606014)
+STATISTIC 2019.07.04 18:21:01  5976              sum of target all =  10M (10606014)
+STATISTIC 2019.07.04 18:21:01  5976              sum of target all = 100.00%
+STATISTIC 2019.07.04 18:21:01  5976              sum of target new =  10M (10585027)
+STATISTIC 2019.07.04 18:21:01  5976              sum of target new = 99.80%
+STATISTIC 2019.07.04 18:21:01  5976             sum of md5ed files =  10M (10606014)
+STATISTIC 2019.07.04 18:21:01  5976             sum of md5ed files = 100.00%
+STATISTIC 2019.07.04 18:21:01  5976     sum internal linked (copy) = 0.0  (0)
+STATISTIC 2019.07.04 18:21:01  5976    sum internal linked (compr) = 0.0  (0)
+STATISTIC 2019.07.04 18:21:01  5976          sum old linked (copy) =  20k (20987)
+STATISTIC 2019.07.04 18:21:01  5976         sum old linked (compr) = 0.0  (0)
+STATISTIC 2019.07.04 18:21:01  5976           sum unchanged (copy) =  20k (20987)
+STATISTIC 2019.07.04 18:21:01  5976          sum unchanged (compr) = 0.0  (0)
+STATISTIC 2019.07.04 18:21:01  5976                 sum new (copy) =  10M (10585027)
+STATISTIC 2019.07.04 18:21:01  5976                sum new (compr) = 0.0  (0)
+STATISTIC 2019.07.04 18:21:01  5976     sum new (compr), orig size = 0.0  (0)
+STATISTIC 2019.07.04 18:21:01  5976                 sum new / orig = 100.00%
+STATISTIC 2019.07.04 18:21:01  5976       size of md5CheckSum file = 1.1k (1118)
+STATISTIC 2019.07.04 18:21:01  5976     size of temporary db files = 0.0  (0)
+STATISTIC 2019.07.04 18:21:01  5976            deleted old backups = 0
+STATISTIC 2019.07.04 18:21:01  5976            deleted directories = 0
+STATISTIC 2019.07.04 18:21:01  5976                  deleted files = 0
+STATISTIC 2019.07.04 18:21:01  5976           (only) removed links = 0
+STATISTIC 2019.07.04 18:21:01  5976 freed space in old directories = 0.0  (0)
+STATISTIC 2019.07.04 18:21:01  5976       add. used space in files =  10M (10586145)
+STATISTIC 2019.07.04 18:21:01  5976                backup duration = 1s
+STATISTIC 2019.07.04 18:21:01  5976 over all files/sec (real time) = 21.00
+STATISTIC 2019.07.04 18:21:01  5976  over all files/sec (CPU time) = 41.18
+STATISTIC 2019.07.04 18:21:01  5976                      CPU usage = 51.00%
+INFO      2019.07.04 18:21:01  5976 removing lock file </tmp/storeBackup.lock>
+END       2019.07.04 18:21:01  5976 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.07.04_18.21.00>
+BEGIN     2019.07.05 01:02:29 12133 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+VERSION   2019.07.05 01:02:29 12133 storeBackup.pl, 3.5
+INFO      2019.07.05 01:02:29 12133 setting ARG_MAX to 63488 (Linux)
+INFO      2019.07.05 01:02:29 12133 comprRule = $size > 10000000 and not $file =~ /\.zip\Z|\.bz2\Z|\.gz\Z|\.tgz\Z|\.jpg\Z|\.gif\Z|\.tiff?\Z|\.mpe?g\Z|\.mp[34]\Z|\.mpe?[34]\Z|\.ogg\Z|\.gpg\Z|\.png\Z|\.lzma\Z|\.xz\Z|\.mov\Z/i
+INFO      2019.07.05 01:02:29 12133 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> for existing backups
+INFO      2019.07.05 01:02:29 12133 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> for existing backups
+STATISTIC 2019.07.05 01:02:29 12133 found 1 backup series, 7 backups, 0 renamed backups
+INFO      2019.07.05 01:02:29 12133 consistency check finished successfully
+INFO      2019.07.05 01:02:29 12133 found no references to backups from lateLinks that need storeBackupUpdateBackup run
+INFO      2019.07.05 01:02:29 12133 excluding <Versions>:
+INFO      2019.07.05 01:02:29 12133     excluding </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+INFO      2019.07.05 01:02:29 12133 target directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> is in exception </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> of source directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4>, ok
+INFO      2019.07.05 01:02:29 12133 creating lock file </tmp/storeBackup.lock>
+INFO      2019.07.05 01:02:29 12133 analysis of old Backups in </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>:
+INFO      2019.07.05 01:02:29 12133    (7) Tue 2019.06.18_17.04.25 (16d7h): keepMinNumber8
+INFO      2019.07.05 01:02:29 12133    (6) Tue 2019.06.18_17.53.58 (16d7h): keepMinNumber7, keepWeekDays(30d)
+INFO      2019.07.05 01:02:29 12133    (5) Fri 2019.06.21_09.00.40 (13d16h): keepMinNumber6
+INFO      2019.07.05 01:02:29 12133    (4) Fri 2019.06.21_15.27.25 (13d9h): keepMinNumber5, keepWeekDays(30d)
+INFO      2019.07.05 01:02:29 12133    (3) Tue 2019.06.25_17.51.21 (9d7h): keepMinNumber4, keepWeekDays(30d)
+INFO      2019.07.05 01:02:29 12133    (2) Wed 2019.06.26_18.40.55 (8d6h): keepMinNumber3, keepWeekDays(30d)
+INFO      2019.07.05 01:02:29 12133    (1) Thu 2019.07.04_18.21.00 (0d6h): keepMinNumber2, keepWeekDays(30d)
+INFO      2019.07.05 01:02:29 12133    (0) Fri 2019.07.05_01.02.29 (0d0h): keepMinNumber1, keepWeekDays(30d)
+INFO      2019.07.05 01:02:29 12133 start reading /home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.07.04_18.21.00/.md5CheckSums.bz2
+INFO      2019.07.05 01:02:29 12133 finished reading /home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.07.04_18.21.00/.md5CheckSums.bz2 (22 entries)
+INFO      2019.07.05 01:02:29 12133 21 entries in dbm files
+INFO      2019.07.05 01:02:29 12133 0 entries in dbm block files
+INFO      2019.07.05 01:02:29 12133 setting atime, mtime of directories ...
+INFO      2019.07.05 01:02:29 12133 syncing ...
+STATISTIC 2019.07.05 01:02:30 12133  [sec] |      user|    system
+STATISTIC 2019.07.05 01:02:30 12133 -------+----------+----------
+STATISTIC 2019.07.05 01:02:30 12133 process|      0.25|      0.02
+STATISTIC 2019.07.05 01:02:30 12133 childs |      0.16|      0.04
+STATISTIC 2019.07.05 01:02:30 12133 -------+----------+----------
+STATISTIC 2019.07.05 01:02:30 12133 sum    |      0.41|      0.06 => 0.47 (0s)
+STATISTIC 2019.07.05 01:02:30 12133                    directories = 1
+STATISTIC 2019.07.05 01:02:30 12133                          files = 21
+STATISTIC 2019.07.05 01:02:30 12133                 symbolic links = 0
+STATISTIC 2019.07.05 01:02:30 12133                     late links = 0
+STATISTIC 2019.07.05 01:02:30 12133                    named pipes = 0
+STATISTIC 2019.07.05 01:02:30 12133                        sockets = 0
+STATISTIC 2019.07.05 01:02:30 12133                  block devices = 0
+STATISTIC 2019.07.05 01:02:30 12133              character devices = 0
+STATISTIC 2019.07.05 01:02:30 12133      new internal linked files = 0
+STATISTIC 2019.07.05 01:02:30 12133               old linked files = 15
+STATISTIC 2019.07.05 01:02:30 12133                unchanged files = 15
+STATISTIC 2019.07.05 01:02:30 12133                   copied files = 6
+STATISTIC 2019.07.05 01:02:30 12133               compressed files = 0
+STATISTIC 2019.07.05 01:02:30 12133                  blocked files = 0
+STATISTIC 2019.07.05 01:02:30 12133    excluded files because rule = 0 (0.0 )
+STATISTIC 2019.07.05 01:02:30 12133    included files because rule = 0 (0.0 )
+STATISTIC 2019.07.05 01:02:30 12133         max size of copy queue = 4
+STATISTIC 2019.07.05 01:02:30 12133  max size of compression queue = 0
+STATISTIC 2019.07.05 01:02:30 12133            calculated md5 sums = 16
+STATISTIC 2019.07.05 01:02:30 12133                    forks total = 2
+STATISTIC 2019.07.05 01:02:30 12133                      forks md5 = 1
+STATISTIC 2019.07.05 01:02:30 12133                     forks copy = 1
+STATISTIC 2019.07.05 01:02:30 12133                    forks bzip2 = 0
+STATISTIC 2019.07.05 01:02:30 12133                  sum of source =  10M (10733169)
+STATISTIC 2019.07.05 01:02:30 12133              sum of target all =  10M (10733169)
+STATISTIC 2019.07.05 01:02:30 12133              sum of target all = 100.00%
+STATISTIC 2019.07.05 01:02:30 12133              sum of target new = 1.8M (1917276)
+STATISTIC 2019.07.05 01:02:30 12133              sum of target new = 17.86%
+STATISTIC 2019.07.05 01:02:30 12133             sum of md5ed files = 1.8M (1938678)
+STATISTIC 2019.07.05 01:02:30 12133             sum of md5ed files = 18.06%
+STATISTIC 2019.07.05 01:02:30 12133     sum internal linked (copy) = 0.0  (0)
+STATISTIC 2019.07.05 01:02:30 12133    sum internal linked (compr) = 0.0  (0)
+STATISTIC 2019.07.05 01:02:30 12133          sum old linked (copy) = 8.4M (8815893)
+STATISTIC 2019.07.05 01:02:30 12133         sum old linked (compr) = 0.0  (0)
+STATISTIC 2019.07.05 01:02:30 12133           sum unchanged (copy) = 8.4M (8815893)
+STATISTIC 2019.07.05 01:02:30 12133          sum unchanged (compr) = 0.0  (0)
+STATISTIC 2019.07.05 01:02:30 12133                 sum new (copy) = 1.8M (1917276)
+STATISTIC 2019.07.05 01:02:30 12133                sum new (compr) = 0.0  (0)
+STATISTIC 2019.07.05 01:02:30 12133     sum new (compr), orig size = 0.0  (0)
+STATISTIC 2019.07.05 01:02:30 12133                 sum new / orig = 100.00%
+STATISTIC 2019.07.05 01:02:30 12133       size of md5CheckSum file = 1.1k (1122)
+STATISTIC 2019.07.05 01:02:30 12133     size of temporary db files = 0.0  (0)
+STATISTIC 2019.07.05 01:02:30 12133            deleted old backups = 0
+STATISTIC 2019.07.05 01:02:30 12133            deleted directories = 0
+STATISTIC 2019.07.05 01:02:30 12133                  deleted files = 0
+STATISTIC 2019.07.05 01:02:30 12133           (only) removed links = 0
+STATISTIC 2019.07.05 01:02:30 12133 freed space in old directories = 0.0  (0)
+STATISTIC 2019.07.05 01:02:30 12133       add. used space in files = 1.8M (1918398)
+STATISTIC 2019.07.05 01:02:30 12133                backup duration = 1s
+STATISTIC 2019.07.05 01:02:30 12133 over all files/sec (real time) = 21.00
+STATISTIC 2019.07.05 01:02:30 12133  over all files/sec (CPU time) = 44.68
+STATISTIC 2019.07.05 01:02:30 12133                      CPU usage = 47.00%
+INFO      2019.07.05 01:02:30 12133 removing lock file </tmp/storeBackup.lock>
+END       2019.07.05 01:02:30 12133 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.07.05_01.02.29>
+BEGIN     2019.07.05 23:51:48  3637 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+VERSION   2019.07.05 23:51:48  3637 storeBackup.pl, 3.5
+INFO      2019.07.05 23:51:49  3637 setting ARG_MAX to 63488 (Linux)
+INFO      2019.07.05 23:51:49  3637 comprRule = $size > 10000000 and not $file =~ /\.zip\Z|\.bz2\Z|\.gz\Z|\.tgz\Z|\.jpg\Z|\.gif\Z|\.tiff?\Z|\.mpe?g\Z|\.mp[34]\Z|\.mpe?[34]\Z|\.ogg\Z|\.gpg\Z|\.png\Z|\.lzma\Z|\.xz\Z|\.mov\Z/i
+INFO      2019.07.05 23:51:49  3637 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> for existing backups
+INFO      2019.07.05 23:51:49  3637 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> for existing backups
+STATISTIC 2019.07.05 23:51:49  3637 found 1 backup series, 8 backups, 0 renamed backups
+INFO      2019.07.05 23:51:49  3637 consistency check finished successfully
+INFO      2019.07.05 23:51:49  3637 found no references to backups from lateLinks that need storeBackupUpdateBackup run
+INFO      2019.07.05 23:51:49  3637 excluding <Versions>:
+INFO      2019.07.05 23:51:49  3637     excluding </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+INFO      2019.07.05 23:51:49  3637 target directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> is in exception </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> of source directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4>, ok
+INFO      2019.07.05 23:51:49  3637 creating lock file </tmp/storeBackup.lock>
+INFO      2019.07.05 23:51:49  3637 analysis of old Backups in </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>:
+INFO      2019.07.05 23:51:49  3637    (8) Tue 2019.06.18_17.04.25 (17d6h): keepMinNumber8
+INFO      2019.07.05 23:51:49  3637    (7) Tue 2019.06.18_17.53.58 (17d5h): keepMinNumber7, keepWeekDays(30d)
+INFO      2019.07.05 23:51:49  3637    (6) Fri 2019.06.21_09.00.40 (14d14h): keepMinNumber6
+INFO      2019.07.05 23:51:49  3637    (5) Fri 2019.06.21_15.27.25 (14d8h): keepMinNumber5, keepWeekDays(30d)
+INFO      2019.07.05 23:51:49  3637    (4) Tue 2019.06.25_17.51.21 (10d6h): keepMinNumber4, keepWeekDays(30d)
+INFO      2019.07.05 23:51:49  3637    (3) Wed 2019.06.26_18.40.55 (9d5h): keepMinNumber3, keepWeekDays(30d)
+INFO      2019.07.05 23:51:49  3637    (2) Thu 2019.07.04_18.21.00 (1d5h): keepMinNumber2, keepWeekDays(30d)
+INFO      2019.07.05 23:51:49  3637    (1) Fri 2019.07.05_01.02.29 (0d22h): keepDuplicate(7d)
+INFO      2019.07.05 23:51:49  3637    (0) Fri 2019.07.05_23.51.49 (0d0h): keepMinNumber1, keepWeekDays(30d)
+INFO      2019.07.05 23:51:49  3637 start reading /home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.07.05_01.02.29/.md5CheckSums.bz2
+INFO      2019.07.05 23:51:49  3637 finished reading /home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.07.05_01.02.29/.md5CheckSums.bz2 (22 entries)
+INFO      2019.07.05 23:51:49  3637 21 entries in dbm files
+INFO      2019.07.05 23:51:49  3637 0 entries in dbm block files
+INFO      2019.07.05 23:51:51  3637 setting atime, mtime of directories ...
+INFO      2019.07.05 23:51:51  3637 syncing ...
+STATISTIC 2019.07.05 23:51:51  3637  [sec] |      user|    system
+STATISTIC 2019.07.05 23:51:51  3637 -------+----------+----------
+STATISTIC 2019.07.05 23:51:51  3637 process|      0.25|      0.04
+STATISTIC 2019.07.05 23:51:51  3637 childs |      2.06|      0.04
+STATISTIC 2019.07.05 23:51:51  3637 -------+----------+----------
+STATISTIC 2019.07.05 23:51:51  3637 sum    |      2.31|      0.08 => 2.39 (2s)
+STATISTIC 2019.07.05 23:51:51  3637                    directories = 1
+STATISTIC 2019.07.05 23:51:51  3637                          files = 23
+STATISTIC 2019.07.05 23:51:51  3637                 symbolic links = 0
+STATISTIC 2019.07.05 23:51:51  3637                     late links = 0
+STATISTIC 2019.07.05 23:51:51  3637                    named pipes = 0
+STATISTIC 2019.07.05 23:51:51  3637                        sockets = 0
+STATISTIC 2019.07.05 23:51:51  3637                  block devices = 0
+STATISTIC 2019.07.05 23:51:51  3637              character devices = 0
+STATISTIC 2019.07.05 23:51:51  3637      new internal linked files = 0
+STATISTIC 2019.07.05 23:51:51  3637               old linked files = 9
+STATISTIC 2019.07.05 23:51:51  3637                unchanged files = 9
+STATISTIC 2019.07.05 23:51:51  3637                   copied files = 13
+STATISTIC 2019.07.05 23:51:51  3637               compressed files = 1
+STATISTIC 2019.07.05 23:51:51  3637                  blocked files = 0
+STATISTIC 2019.07.05 23:51:51  3637    excluded files because rule = 0 (0.0 )
+STATISTIC 2019.07.05 23:51:51  3637    included files because rule = 0 (0.0 )
+STATISTIC 2019.07.05 23:51:51  3637         max size of copy queue = 1
+STATISTIC 2019.07.05 23:51:51  3637  max size of compression queue = 1
+STATISTIC 2019.07.05 23:51:51  3637            calculated md5 sums = 33
+STATISTIC 2019.07.05 23:51:51  3637                    forks total = 2
+STATISTIC 2019.07.05 23:51:51  3637                      forks md5 = 1
+STATISTIC 2019.07.05 23:51:51  3637                     forks copy = 0
+STATISTIC 2019.07.05 23:51:51  3637                    forks bzip2 = 1
+STATISTIC 2019.07.05 23:51:51  3637                  sum of source =  32M (33629605)
+STATISTIC 2019.07.05 23:51:51  3637              sum of target all =  16M (16267293)
+STATISTIC 2019.07.05 23:51:51  3637              sum of target all = 48.37%
+STATISTIC 2019.07.05 23:51:51  3637              sum of target new = 7.4M (7768006)
+STATISTIC 2019.07.05 23:51:51  3637              sum of target new = 23.10%
+STATISTIC 2019.07.05 23:51:51  3637             sum of md5ed files =  24M (25152217)
+STATISTIC 2019.07.05 23:51:51  3637             sum of md5ed files = 74.79%
+STATISTIC 2019.07.05 23:51:51  3637     sum internal linked (copy) = 0.0  (0)
+STATISTIC 2019.07.05 23:51:51  3637    sum internal linked (compr) = 0.0  (0)
+STATISTIC 2019.07.05 23:51:51  3637          sum old linked (copy) = 8.1M (8499287)
+STATISTIC 2019.07.05 23:51:51  3637         sum old linked (compr) = 0.0  (0)
+STATISTIC 2019.07.05 23:51:51  3637           sum unchanged (copy) = 8.1M (8499287)
+STATISTIC 2019.07.05 23:51:51  3637          sum unchanged (compr) = 0.0  (0)
+STATISTIC 2019.07.05 23:51:51  3637                 sum new (copy) = 1.2M (1211119)
+STATISTIC 2019.07.05 23:51:51  3637                sum new (compr) = 6.3M (6556887)
+STATISTIC 2019.07.05 23:51:51  3637     sum new (compr), orig size =  23M (23919199)
+STATISTIC 2019.07.05 23:51:51  3637                 sum new / orig = 30.91%
+STATISTIC 2019.07.05 23:51:51  3637       size of md5CheckSum file = 1.2k (1220)
+STATISTIC 2019.07.05 23:51:51  3637     size of temporary db files = 0.0  (0)
+STATISTIC 2019.07.05 23:51:51  3637            deleted old backups = 0
+STATISTIC 2019.07.05 23:51:51  3637            deleted directories = 0
+STATISTIC 2019.07.05 23:51:51  3637                  deleted files = 0
+STATISTIC 2019.07.05 23:51:51  3637           (only) removed links = 0
+STATISTIC 2019.07.05 23:51:51  3637 freed space in old directories = 0.0  (0)
+STATISTIC 2019.07.05 23:51:51  3637       add. used space in files = 7.4M (7769226)
+STATISTIC 2019.07.05 23:51:51  3637                backup duration = 2s
+STATISTIC 2019.07.05 23:51:51  3637 over all files/sec (real time) = 11.50
+STATISTIC 2019.07.05 23:51:51  3637  over all files/sec (CPU time) = 9.62
+STATISTIC 2019.07.05 23:51:51  3637                      CPU usage = 119.50%
+INFO      2019.07.05 23:51:51  3637 removing lock file </tmp/storeBackup.lock>
+END       2019.07.05 23:51:51  3637 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.07.05_23.51.49>
+BEGIN     2019.07.08 15:13:32 17343 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+VERSION   2019.07.08 15:13:32 17343 storeBackup.pl, 3.5
+INFO      2019.07.08 15:13:32 17343 setting ARG_MAX to 63488 (Linux)
+INFO      2019.07.08 15:13:32 17343 comprRule = $size > 10000000 and not $file =~ /\.zip\Z|\.bz2\Z|\.gz\Z|\.tgz\Z|\.jpg\Z|\.gif\Z|\.tiff?\Z|\.mpe?g\Z|\.mp[34]\Z|\.mpe?[34]\Z|\.ogg\Z|\.gpg\Z|\.png\Z|\.lzma\Z|\.xz\Z|\.mov\Z/i
+INFO      2019.07.08 15:13:32 17343 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> for existing backups
+INFO      2019.07.08 15:13:32 17343 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> for existing backups
+STATISTIC 2019.07.08 15:13:32 17343 found 1 backup series, 9 backups, 0 renamed backups
+INFO      2019.07.08 15:13:32 17343 consistency check finished successfully
+INFO      2019.07.08 15:13:32 17343 found no references to backups from lateLinks that need storeBackupUpdateBackup run
+INFO      2019.07.08 15:13:32 17343 excluding <Versions>:
+INFO      2019.07.08 15:13:32 17343     excluding </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+INFO      2019.07.08 15:13:32 17343 target directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> is in exception </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> of source directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4>, ok
+INFO      2019.07.08 15:13:32 17343 creating lock file </tmp/storeBackup.lock>
+INFO      2019.07.08 15:13:32 17343 analysis of old Backups in </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>:
+INFO      2019.07.08 15:13:32 17343    (9) Tue 2019.06.18_17.04.25 (19d22h): keepMinNumber9
+INFO      2019.07.08 15:13:32 17343    (8) Tue 2019.06.18_17.53.58 (19d21h): keepMinNumber8, keepWeekDays(30d)
+INFO      2019.07.08 15:13:32 17343    (7) Fri 2019.06.21_09.00.40 (17d6h): keepMinNumber7
+INFO      2019.07.08 15:13:32 17343    (6) Fri 2019.06.21_15.27.25 (16d23h): keepMinNumber6, keepWeekDays(30d)
+INFO      2019.07.08 15:13:32 17343    (5) Tue 2019.06.25_17.51.21 (12d21h): keepMinNumber5, keepWeekDays(30d)
+INFO      2019.07.08 15:13:32 17343    (4) Wed 2019.06.26_18.40.55 (11d20h): keepMinNumber4, keepWeekDays(30d)
+INFO      2019.07.08 15:13:32 17343    (3) Thu 2019.07.04_18.21.00 (3d20h): keepMinNumber3, keepWeekDays(30d)
+INFO      2019.07.08 15:13:32 17343    (2) Fri 2019.07.05_01.02.29 (3d14h): keepDuplicate(7d)
+INFO      2019.07.08 15:13:32 17343    (1) Fri 2019.07.05_23.51.49 (2d15h): keepMinNumber2, keepWeekDays(30d)
+INFO      2019.07.08 15:13:32 17343    (0) Mon 2019.07.08_15.13.32 (0d0h): keepMinNumber1, keepWeekDays(30d)
+INFO      2019.07.08 15:13:32 17343 start reading /home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.07.05_23.51.49/.md5CheckSums.bz2
+INFO      2019.07.08 15:13:32 17343 finished reading /home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.07.05_23.51.49/.md5CheckSums.bz2 (24 entries)
+INFO      2019.07.08 15:13:32 17343 23 entries in dbm files
+INFO      2019.07.08 15:13:32 17343 0 entries in dbm block files
+INFO      2019.07.08 15:13:40 17343 setting atime, mtime of directories ...
+INFO      2019.07.08 15:13:40 17343 syncing ...
+STATISTIC 2019.07.08 15:13:41 17343  [sec] |      user|    system
+STATISTIC 2019.07.08 15:13:41 17343 -------+----------+----------
+STATISTIC 2019.07.08 15:13:41 17343 process|      0.19|      0.06
+STATISTIC 2019.07.08 15:13:41 17343 childs |      8.86|      0.12
+STATISTIC 2019.07.08 15:13:41 17343 -------+----------+----------
+STATISTIC 2019.07.08 15:13:41 17343 sum    |      9.05|      0.18 => 9.23 (9s)
+STATISTIC 2019.07.08 15:13:41 17343                    directories = 1
+STATISTIC 2019.07.08 15:13:41 17343                          files = 28
+STATISTIC 2019.07.08 15:13:41 17343                 symbolic links = 0
+STATISTIC 2019.07.08 15:13:41 17343                     late links = 0
+STATISTIC 2019.07.08 15:13:41 17343                    named pipes = 0
+STATISTIC 2019.07.08 15:13:41 17343                        sockets = 0
+STATISTIC 2019.07.08 15:13:41 17343                  block devices = 0
+STATISTIC 2019.07.08 15:13:41 17343              character devices = 0
+STATISTIC 2019.07.08 15:13:41 17343      new internal linked files = 0
+STATISTIC 2019.07.08 15:13:41 17343               old linked files = 11
+STATISTIC 2019.07.08 15:13:41 17343                unchanged files = 11
+STATISTIC 2019.07.08 15:13:41 17343                   copied files = 15
+STATISTIC 2019.07.08 15:13:41 17343               compressed files = 2
+STATISTIC 2019.07.08 15:13:41 17343                  blocked files = 0
+STATISTIC 2019.07.08 15:13:41 17343    excluded files because rule = 0 (0.0 )
+STATISTIC 2019.07.08 15:13:41 17343    included files because rule = 0 (0.0 )
+STATISTIC 2019.07.08 15:13:41 17343         max size of copy queue = 13
+STATISTIC 2019.07.08 15:13:41 17343  max size of compression queue = 1
+STATISTIC 2019.07.08 15:13:41 17343            calculated md5 sums = 39
+STATISTIC 2019.07.08 15:13:41 17343                    forks total = 4
+STATISTIC 2019.07.08 15:13:41 17343                      forks md5 = 1
+STATISTIC 2019.07.08 15:13:41 17343                     forks copy = 1
+STATISTIC 2019.07.08 15:13:41 17343                    forks bzip2 = 2
+STATISTIC 2019.07.08 15:13:41 17343                  sum of source =  51M (53885937)
+STATISTIC 2019.07.08 15:13:41 17343              sum of target all =  18M (18801939)
+STATISTIC 2019.07.08 15:13:41 17343              sum of target all = 34.89%
+STATISTIC 2019.07.08 15:13:41 17343              sum of target new = 9.3M (9776994)
+STATISTIC 2019.07.08 15:13:41 17343              sum of target new = 18.14%
+STATISTIC 2019.07.08 15:13:41 17343             sum of md5ed files =  43M (44882891)
+STATISTIC 2019.07.08 15:13:41 17343             sum of md5ed files = 83.29%
+STATISTIC 2019.07.08 15:13:41 17343     sum internal linked (copy) = 0.0  (0)
+STATISTIC 2019.07.08 15:13:41 17343    sum internal linked (compr) = 0.0  (0)
+STATISTIC 2019.07.08 15:13:41 17343          sum old linked (copy) = 8.6M (9024945)
+STATISTIC 2019.07.08 15:13:41 17343         sum old linked (compr) = 0.0  (0)
+STATISTIC 2019.07.08 15:13:41 17343           sum unchanged (copy) = 8.6M (9024945)
+STATISTIC 2019.07.08 15:13:41 17343          sum unchanged (compr) = 0.0  (0)
+STATISTIC 2019.07.08 15:13:41 17343                 sum new (copy) = 2.8M (2951187)
+STATISTIC 2019.07.08 15:13:41 17343                sum new (compr) = 6.5M (6825807)
+STATISTIC 2019.07.08 15:13:41 17343     sum new (compr), orig size =  40M (41909805)
+STATISTIC 2019.07.08 15:13:41 17343                 sum new / orig = 21.79%
+STATISTIC 2019.07.08 15:13:41 17343       size of md5CheckSum file = 1.4k (1477)
+STATISTIC 2019.07.08 15:13:41 17343     size of temporary db files = 0.0  (0)
+STATISTIC 2019.07.08 15:13:41 17343            deleted old backups = 0
+STATISTIC 2019.07.08 15:13:41 17343            deleted directories = 0
+STATISTIC 2019.07.08 15:13:41 17343                  deleted files = 0
+STATISTIC 2019.07.08 15:13:41 17343           (only) removed links = 0
+STATISTIC 2019.07.08 15:13:41 17343 freed space in old directories = 0.0  (0)
+STATISTIC 2019.07.08 15:13:41 17343       add. used space in files = 9.3M (9778471)
+STATISTIC 2019.07.08 15:13:41 17343                backup duration = 9s
+STATISTIC 2019.07.08 15:13:41 17343 over all files/sec (real time) = 3.11
+STATISTIC 2019.07.08 15:13:41 17343  over all files/sec (CPU time) = 3.03
+STATISTIC 2019.07.08 15:13:41 17343                      CPU usage = 102.56%
+INFO      2019.07.08 15:13:41 17343 removing lock file </tmp/storeBackup.lock>
+END       2019.07.08 15:13:41 17343 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.07.08_15.13.32>
+BEGIN     2019.07.22 19:58:11 31085 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+VERSION   2019.07.22 19:58:11 31085 storeBackup.pl, 3.5
+INFO      2019.07.22 19:58:11 31085 setting ARG_MAX to 63488 (Linux)
+INFO      2019.07.22 19:58:11 31085 comprRule = $size > 10000000 and not $file =~ /\.zip\Z|\.bz2\Z|\.gz\Z|\.tgz\Z|\.jpg\Z|\.gif\Z|\.tiff?\Z|\.mpe?g\Z|\.mp[34]\Z|\.mpe?[34]\Z|\.ogg\Z|\.gpg\Z|\.png\Z|\.lzma\Z|\.xz\Z|\.mov\Z/i
+INFO      2019.07.22 19:58:11 31085 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> for existing backups
+INFO      2019.07.22 19:58:11 31085 scanning directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> for existing backups
+STATISTIC 2019.07.22 19:58:11 31085 found 1 backup series, 10 backups, 0 renamed backups
+INFO      2019.07.22 19:58:11 31085 consistency check finished successfully
+INFO      2019.07.22 19:58:11 31085 found no references to backups from lateLinks that need storeBackupUpdateBackup run
+INFO      2019.07.22 19:58:11 31085 excluding <Versions>:
+INFO      2019.07.22 19:58:11 31085     excluding </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>
+INFO      2019.07.22 19:58:11 31085 target directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> is in exception </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions> of source directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4>, ok
+INFO      2019.07.22 19:58:11 31085 creating lock file </tmp/storeBackup.lock>
+INFO      2019.07.22 19:58:11 31085 analysis of old Backups in </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions>:
+INFO      2019.07.22 19:58:11 31085    (10) Tue 2019.06.18_17.04.25 (34d2h): keepMinNumber11
+INFO      2019.07.22 19:58:11 31085    (9) Tue 2019.06.18_17.53.58 (34d2h): keepMinNumber10
+INFO      2019.07.22 19:58:11 31085    (8) Fri 2019.06.21_09.00.40 (31d10h): keepMinNumber9
+INFO      2019.07.22 19:58:11 31085    (7) Fri 2019.06.21_15.27.25 (31d4h): keepMinNumber8
+INFO      2019.07.22 19:58:11 31085    (6) Tue 2019.06.25_17.51.21 (27d2h): keepMinNumber7, keepWeekDays(30d)
+INFO      2019.07.22 19:58:11 31085    (5) Wed 2019.06.26_18.40.55 (26d1h): keepMinNumber6, keepWeekDays(30d)
+INFO      2019.07.22 19:58:11 31085    (4) Thu 2019.07.04_18.21.00 (18d1h): keepMinNumber5, keepWeekDays(30d)
+INFO      2019.07.22 19:58:11 31085    (3) Fri 2019.07.05_01.02.29 (17d18h): keepMinNumber4
+INFO      2019.07.22 19:58:11 31085    (2) Fri 2019.07.05_23.51.49 (16d20h): keepMinNumber3, keepWeekDays(30d)
+INFO      2019.07.22 19:58:11 31085    (1) Mon 2019.07.08_15.13.32 (14d4h): keepMinNumber2, keepWeekDays(30d)
+INFO      2019.07.22 19:58:11 31085    (0) Mon 2019.07.22_19.58.11 (0d0h): keepMinNumber1, keepWeekDays(30d)
+INFO      2019.07.22 19:58:11 31085 start reading /home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.07.08_15.13.32/.md5CheckSums.bz2
+INFO      2019.07.22 19:58:11 31085 finished reading /home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.07.08_15.13.32/.md5CheckSums.bz2 (29 entries)
+INFO      2019.07.22 19:58:11 31085 28 entries in dbm files
+INFO      2019.07.22 19:58:11 31085 0 entries in dbm block files
+INFO      2019.07.22 19:58:22 31085 setting atime, mtime of directories ...
+INFO      2019.07.22 19:58:22 31085 syncing ...
+STATISTIC 2019.07.22 19:58:24 31085  [sec] |      user|    system
+STATISTIC 2019.07.22 19:58:24 31085 -------+----------+----------
+STATISTIC 2019.07.22 19:58:24 31085 process|      0.42|      0.13
+STATISTIC 2019.07.22 19:58:24 31085 childs |     13.70|      0.57
+STATISTIC 2019.07.22 19:58:24 31085 -------+----------+----------
+STATISTIC 2019.07.22 19:58:24 31085 sum    |     14.12|      0.70 => 14.82 (15s)
+STATISTIC 2019.07.22 19:58:24 31085                    directories = 1
+STATISTIC 2019.07.22 19:58:24 31085                          files = 110
+STATISTIC 2019.07.22 19:58:24 31085                 symbolic links = 0
+STATISTIC 2019.07.22 19:58:24 31085                     late links = 0
+STATISTIC 2019.07.22 19:58:24 31085                    named pipes = 0
+STATISTIC 2019.07.22 19:58:24 31085                        sockets = 0
+STATISTIC 2019.07.22 19:58:24 31085                  block devices = 0
+STATISTIC 2019.07.22 19:58:24 31085              character devices = 0
+STATISTIC 2019.07.22 19:58:24 31085      new internal linked files = 0
+STATISTIC 2019.07.22 19:58:24 31085               old linked files = 5
+STATISTIC 2019.07.22 19:58:24 31085                unchanged files = 5
+STATISTIC 2019.07.22 19:58:24 31085                   copied files = 102
+STATISTIC 2019.07.22 19:58:24 31085               compressed files = 3
+STATISTIC 2019.07.22 19:58:24 31085                  blocked files = 0
+STATISTIC 2019.07.22 19:58:24 31085    excluded files because rule = 0 (0.0 )
+STATISTIC 2019.07.22 19:58:24 31085    included files because rule = 0 (0.0 )
+STATISTIC 2019.07.22 19:58:24 31085         max size of copy queue = 101
+STATISTIC 2019.07.22 19:58:24 31085  max size of compression queue = 1
+STATISTIC 2019.07.22 19:58:24 31085            calculated md5 sums = 213
+STATISTIC 2019.07.22 19:58:24 31085                    forks total = 33
+STATISTIC 2019.07.22 19:58:24 31085                      forks md5 = 1
+STATISTIC 2019.07.22 19:58:24 31085                     forks copy = 29
+STATISTIC 2019.07.22 19:58:24 31085                    forks bzip2 = 3
+STATISTIC 2019.07.22 19:58:24 31085                  sum of source = 148M (154691314)
+STATISTIC 2019.07.22 19:58:24 31085              sum of target all = 114M (119232631)
+STATISTIC 2019.07.22 19:58:24 31085              sum of target all = 77.08%
+STATISTIC 2019.07.22 19:58:24 31085              sum of target new = 114M (119206030)
+STATISTIC 2019.07.22 19:58:24 31085              sum of target new = 77.06%
+STATISTIC 2019.07.22 19:58:24 31085             sum of md5ed files = 148M (154685700)
+STATISTIC 2019.07.22 19:58:24 31085             sum of md5ed files = 100.00%
+STATISTIC 2019.07.22 19:58:24 31085     sum internal linked (copy) = 0.0  (0)
+STATISTIC 2019.07.22 19:58:24 31085    sum internal linked (compr) = 0.0  (0)
+STATISTIC 2019.07.22 19:58:24 31085          sum old linked (copy) =  26k (26601)
+STATISTIC 2019.07.22 19:58:24 31085         sum old linked (compr) = 0.0  (0)
+STATISTIC 2019.07.22 19:58:24 31085           sum unchanged (copy) =  26k (26601)
+STATISTIC 2019.07.22 19:58:24 31085          sum unchanged (compr) = 0.0  (0)
+STATISTIC 2019.07.22 19:58:24 31085                 sum new (copy) = 105M (110129938)
+STATISTIC 2019.07.22 19:58:24 31085                sum new (compr) = 8.7M (9076092)
+STATISTIC 2019.07.22 19:58:24 31085     sum new (compr), orig size =  42M (44534775)
+STATISTIC 2019.07.22 19:58:24 31085                 sum new / orig = 77.07%
+STATISTIC 2019.07.22 19:58:24 31085       size of md5CheckSum file = 4.3k (4424)
+STATISTIC 2019.07.22 19:58:24 31085     size of temporary db files = 0.0  (0)
+STATISTIC 2019.07.22 19:58:24 31085            deleted old backups = 0
+STATISTIC 2019.07.22 19:58:24 31085            deleted directories = 0
+STATISTIC 2019.07.22 19:58:24 31085                  deleted files = 0
+STATISTIC 2019.07.22 19:58:24 31085           (only) removed links = 0
+STATISTIC 2019.07.22 19:58:24 31085 freed space in old directories = 0.0  (0)
+STATISTIC 2019.07.22 19:58:24 31085       add. used space in files = 114M (119210454)
+STATISTIC 2019.07.22 19:58:24 31085                backup duration = 13s
+STATISTIC 2019.07.22 19:58:24 31085 over all files/sec (real time) = 8.46
+STATISTIC 2019.07.22 19:58:24 31085  over all files/sec (CPU time) = 7.42
+STATISTIC 2019.07.22 19:58:24 31085                      CPU usage = 114.00%
+INFO      2019.07.22 19:58:24 31085 removing lock file </tmp/storeBackup.lock>
+END       2019.07.22 19:58:24 31085 backing up directory </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4> to </home/home/christian/Gedankenspeicher/ownCloud/Comp-Physics-4/Versions/2019.07.22_19.58.11>
